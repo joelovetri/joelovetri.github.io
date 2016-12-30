@@ -1,2 +1,2 @@
-# joelovetri.github.io
+# lovetri.ca
 Joe LoVetri's Web-site
