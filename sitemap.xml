@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://joelovetri.github.io/publications/Journals/</loc>
+<lastmod>2017-02-05T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://joelovetri.github.io/complicated/First-Post/</loc>
 <lastmod>2016-12-10T09:00:55-06:00</lastmod>
 </url>
@@ -65,13 +69,13 @@
 <loc>http://joelovetri.github.io/about/</loc>
 </url>
 <url>
-<loc>http://joelovetri.github.io/articles/</loc>
-</url>
-<url>
 <loc>http://joelovetri.github.io/blog/</loc>
 </url>
 <url>
 <loc>http://joelovetri.github.io/theme-setup/</loc>
+</url>
+<url>
+<loc>http://joelovetri.github.io/publications/</loc>
 </url>
 <url>
 <loc>http://joelovetri.github.io/Publication%20PDFs/Conference%20Papers/A%2060%20J%20600kV%201ns%20risetime%20Marx%20system.pdf</loc>
