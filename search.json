@@ -119,12 +119,6 @@
   
 
   
-
-  
-
-  
-
-  
     ,{
       "title"			: "About Me",
       "link"			: "http://joelovetri.github.io/about/",
@@ -135,11 +129,17 @@
   
 
   
+
+  
+
+  
     ,{
       "title"			: "Theme Setup",
       "link"			: "http://joelovetri.github.io/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
+  
+
   
 
   
