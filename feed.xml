@@ -1,4 +1,5506 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://joelovetri.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://joelovetri.github.io/" rel="alternate" type="text/html" /><updated>2017-03-08T18:21:28-06:00</updated><id>http://joelovetri.github.io/</id><title type="html">Joe LoVetri’s Web Site</title><subtitle>All my interests--from Science and Technology to Philosophy.</subtitle><entry><title type="html">Journal Publications</title><link href="http://joelovetri.github.io/publications/Journals/" rel="alternate" type="text/html" title="Journal Publications" /><published>2017-02-05T00:00:00-06:00</published><updated>2017-02-05T00:00:00-06:00</updated><id>http://joelovetri.github.io/publications/Journals</id><content type="html" xml:base="http://joelovetri.github.io/publications/Journals/">&lt;h3 id=&quot;section&quot;&gt;2017&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://joelovetri.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://joelovetri.github.io/" rel="alternate" type="text/html" /><updated>2017-03-12T10:06:23-05:00</updated><id>http://joelovetri.github.io/</id><title type="html">Joe LoVetri’s Web Site</title><subtitle>All my interests--from Science and Technology to Philosophy.</subtitle><entry><title type="html">Conferences</title><link href="http://joelovetri.github.io/publications/Conferences/" rel="alternate" type="text/html" title="Conferences" /><published>2017-03-11T00:00:00-06:00</published><updated>2017-03-11T00:00:00-06:00</updated><id>http://joelovetri.github.io/publications/Conferences</id><content type="html" xml:base="http://joelovetri.github.io/publications/Conferences/">&lt;h3 id=&quot;section&quot;&gt;2017&lt;/h3&gt;
+&lt;ul class=&quot;bibliography&quot;&gt;&lt;/ul&gt;
+&lt;h3 id=&quot;section-1&quot;&gt;2016&lt;/h3&gt;
+&lt;ul class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;abdollahi2016green&quot;&gt;N. Abdollahi, I. Jeffrey, and J. LoVetri, “Green’s theorem based eigenfunction formulations for PEC-enclosed electromagnetic imaging,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on&lt;/i&gt;, 2016, pp. 1–2. &lt;/span&gt;
+
+&lt;div id=&quot;abdollahi2016green-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#abdollahi2016green-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;abdollahi2016green-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{abdollahi2016green,
+  title = {Green's theorem based eigenfunction formulations for PEC-enclosed electromagnetic imaging},
+  author = {Abdollahi, Nasim and Jeffrey, Ian and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on},
+  pages = {1--2},
+  year = {2016},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;jeffrey2016discontinuous&quot;&gt;I. Jeffrey and J. LoVetri, “Discontinuous Galerkin Gauss-Newton Inversion for electromagnetic imaging,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on&lt;/i&gt;, 2016, pp. 1–2. &lt;/span&gt;
+
+&lt;div id=&quot;jeffrey2016discontinuous-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#jeffrey2016discontinuous-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;jeffrey2016discontinuous-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{jeffrey2016discontinuous,
+  title = {Discontinuous Galerkin Gauss-Newton Inversion for electromagnetic imaging},
+  author = {Jeffrey, Ian and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on},
+  pages = {1--2},
+  year = {2016},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;kurrant2016evaluating&quot;&gt;D. Kurrant, E. Fear, A. Baran, and J. LoVetri, “Evaluating impact of errors in prior information on performance of microwave tomography,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on&lt;/i&gt;, 2016, pp. 1–4. &lt;/span&gt;
+
+&lt;div id=&quot;kurrant2016evaluating-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#kurrant2016evaluating-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;kurrant2016evaluating-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{kurrant2016evaluating,
+  title = {Evaluating impact of errors in prior information on performance of microwave tomography},
+  author = {Kurrant, Douglas and Fear, Elise and Baran, Anastasia and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on},
+  pages = {1--4},
+  year = {2016},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;nemez2016faceted&quot;&gt;K. Nemez, M. Asefi, A. Baran, and J. LoVetri, “A faceted magnetic field probe resonant chamber for 3D breast MWI: A synthetic study,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on&lt;/i&gt;, 2016, pp. 1–3. &lt;/span&gt;
+
+&lt;div id=&quot;nemez2016faceted-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#nemez2016faceted-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;nemez2016faceted-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{nemez2016faceted,
+  title = {A faceted magnetic field probe resonant chamber for 3D breast MWI: A synthetic study},
+  author = {Nemez, Kyle and Asefi, Mohammad and Baran, Anastasia and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on},
+  pages = {1--3},
+  year = {2016},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;mojabi2016electromagnetic&quot;&gt;P. Mojabi, N. Firoozy, N. Bayat, T. Brown, C. Narendra, P. Mojabi, C. Niu, T. Tiede, T. Neusitzer, X. Li, and others, “Electromagnetic inversion for biomedical imaging, antenna characterization, and sea ice remote sensing applications,” in &lt;i&gt;URSI Asia-Pacific Radio Science Conference (URSI AP-RASC)&lt;/i&gt;, 2016, pp. 586–589. &lt;/span&gt;
+
+&lt;div id=&quot;mojabi2016electromagnetic-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#mojabi2016electromagnetic-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;mojabi2016electromagnetic-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{mojabi2016electromagnetic,
+  title = {Electromagnetic inversion for biomedical imaging, antenna characterization, and sea ice remote sensing applications},
+  author = {Mojabi, Puyan and Firoozy, Nariman and Bayat, Nozhan and Brown, Trevor and Narendra, Chaitanya and Mojabi, Pedram and Niu, Chen and Tiede, Tyler and Neusitzer, Thomas and Li, Xiang and others},
+  booktitle = {URSI Asia-Pacific Radio Science Conference (URSI AP-RASC)},
+  pages = {586--589},
+  year = {2016},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;lovetri2016effects&quot;&gt;J. LoVetri, M. Asefi, A. Baran, and K. Nemez, “Effects of data collection schemes and systems on the imaging performance of electromagnetic inverse problems,” in &lt;i&gt;Progress in Electromagnetic Research Symposium (PIERS)&lt;/i&gt;, 2016, pp. 937–937. &lt;/span&gt;
+
+&lt;div id=&quot;lovetri2016effects-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lovetri2016effects-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;lovetri2016effects-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lovetri2016effects,
+  title = {Effects of data collection schemes and systems on the imaging performance of electromagnetic inverse problems},
+  author = {LoVetri, J and Asefi, M and Baran, A and Nemez, K},
+  booktitle = {Progress in Electromagnetic Research Symposium (PIERS)},
+  pages = {937--937},
+  year = {2016},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;&lt;/ul&gt;
+&lt;h3 id=&quot;section-2&quot;&gt;2015&lt;/h3&gt;
+&lt;ul class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;baran2015immersion&quot;&gt;A. Baran, D. Kurrant, E. Fear, and J. LoVetri, “Immersion medium independent algorithm for breast microwave imaging,” in &lt;i&gt;Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI&lt;/i&gt;, 2015, pp. 303–303. &lt;/span&gt;
+
+&lt;div id=&quot;baran2015immersion-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#baran2015immersion-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;baran2015immersion-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{baran2015immersion,
+  title = {Immersion medium independent algorithm for breast microwave imaging},
+  author = {Baran, Anastasia and Kurrant, Doug and Fear, Elise and LoVetri, Joe},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI},
+  pages = {303--303},
+  year = {2015},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;kaye2015magnetic&quot;&gt;C. Kaye, I. Jeffrey, and J. LoVetri, “Magnetic contrast-enhanced microwave biomedical imaging using discontinuous Galerkin contrast source inversion,” in &lt;i&gt;Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI&lt;/i&gt;, 2015, pp. 305–305. &lt;/span&gt;
+
+&lt;div id=&quot;kaye2015magnetic-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#kaye2015magnetic-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;kaye2015magnetic-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{kaye2015magnetic,
+  title = {Magnetic contrast-enhanced microwave biomedical imaging using discontinuous Galerkin contrast source inversion},
+  author = {Kaye, Cameron and Jeffrey, Ian and LoVetri, Joe},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI},
+  pages = {305--305},
+  year = {2015},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;asefi2015water&quot;&gt;M. Asefi, A. Baran, J. LoVetri, and A. Zakaria, “A water-based 3-D breast imaging system: Modelling and use of prior information,” in &lt;i&gt;Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI&lt;/i&gt;, 2015, pp. 304–304. &lt;/span&gt;
+
+&lt;div id=&quot;asefi2015water-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#asefi2015water-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;asefi2015water-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{asefi2015water,
+  title = {A water-based 3-D breast imaging system: Modelling and use of prior information},
+  author = {Asefi, Mohammad and Baran, Anastasia and LoVetri, Joe and Zakaria, Amer},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI},
+  pages = {304--304},
+  year = {2015},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;jeffrey2015high&quot;&gt;I. Jeffrey and J. LoVetri, “High-order contrast source inversion of dielectric targets using a Discontinuous Galerkin discretization of the vector wave equation,” in &lt;i&gt;Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO), 2015 IEEE MTT-S International Conference on&lt;/i&gt;, 2015, pp. 1–3. &lt;/span&gt;
+
+&lt;div id=&quot;jeffrey2015high-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#jeffrey2015high-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;jeffrey2015high-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{jeffrey2015high,
+  title = {High-order contrast source inversion of dielectric targets using a Discontinuous Galerkin discretization of the vector wave equation},
+  author = {Jeffrey, Ian and LoVetri, Joe},
+  booktitle = {Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO), 2015 IEEE MTT-S International Conference on},
+  pages = {1--3},
+  year = {2015},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;kurrant2015iterative&quot;&gt;D. Kurrant, A. Baran, E. Fear, and J. LoVetri, “Iterative refinement of fibroglandular region with microwave breast imaging,” in &lt;i&gt;Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO), 2015 IEEE MTT-S International Conference on&lt;/i&gt;, 2015, pp. 1–3. &lt;/span&gt;
+
+&lt;div id=&quot;kurrant2015iterative-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#kurrant2015iterative-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;kurrant2015iterative-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{kurrant2015iterative,
+  title = {Iterative refinement of fibroglandular region with microwave breast imaging},
+  author = {Kurrant, Douglas and Baran, Anastasia and Fear, Elise and LoVetri, Joe},
+  booktitle = {Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO), 2015 IEEE MTT-S International Conference on},
+  pages = {1--3},
+  year = {2015},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;mojabi2015tissue&quot;&gt;P. Mojabi and J. LoVetri, “Tissue-type imaging using ultrasound tomography,” in &lt;i&gt;Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO), 2015 IEEE MTT-S International Conference on&lt;/i&gt;, 2015, pp. 1–3. &lt;/span&gt;
+
+&lt;div id=&quot;mojabi2015tissue-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#mojabi2015tissue-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;mojabi2015tissue-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{mojabi2015tissue,
+  title = {Tissue-type imaging using ultrasound tomography},
+  author = {Mojabi, Pedram and LoVetri, Joe},
+  booktitle = {Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO), 2015 IEEE MTT-S International Conference on},
+  pages = {1--3},
+  year = {2015},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;asefi2015stored&quot;&gt;M. Asefi, J. LoVetri, I. Jeffrey, M. Ostadrahimi, A. Zakaria, C. Gilmore, and P. Card, “Stored grain spoilage monitoring via 3D electromagnetic imaging,” in &lt;i&gt;Antennas and Propagation (EuCAP), 2015 9th European Conference on&lt;/i&gt;, 2015, pp. 1–2. &lt;/span&gt;
+
+&lt;div id=&quot;asefi2015stored-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#asefi2015stored-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;asefi2015stored-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{asefi2015stored,
+  title = {Stored grain spoilage monitoring via 3D electromagnetic imaging},
+  author = {Asefi, Mohammad and LoVetri, Joe and Jeffrey, Ian and Ostadrahimi, Majid and Zakaria, Amer and Gilmore, Colin and Card, Paul},
+  booktitle = {Antennas and Propagation (EuCAP), 2015 9th European Conference on},
+  pages = {1--2},
+  year = {2015},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;baran2015monitoring&quot;&gt;A. Baran, D. Kurrant, E. Fear, and J. LoVetri, “Monitoring breast cancer treatment progress with microwave tomography and radar-based tissue-regions estimation,” in &lt;i&gt;Antennas and Propagation (EuCAP), 2015 9th European Conference on&lt;/i&gt;, 2015, pp. 1–2. &lt;/span&gt;
+
+&lt;div id=&quot;baran2015monitoring-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#baran2015monitoring-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;baran2015monitoring-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{baran2015monitoring,
+  title = {Monitoring breast cancer treatment progress with microwave tomography and radar-based tissue-regions estimation},
+  author = {Baran, Anastasia and Kurrant, Douglas and Fear, Elise and LoVetri, Joe},
+  booktitle = {Antennas and Propagation (EuCAP), 2015 9th European Conference on},
+  pages = {1--2},
+  year = {2015},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;kurrant2015tumor&quot;&gt;D. Kurrant, A. Baran, E. Fear, and J. LoVetri, “Tumor tracking with microwave breast imaging using refined patient specific prior information,” in &lt;i&gt;Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI&lt;/i&gt;, 2015, pp. 299–299. &lt;/span&gt;
+
+&lt;div id=&quot;kurrant2015tumor-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#kurrant2015tumor-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;kurrant2015tumor-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{kurrant2015tumor,
+  title = {Tumor tracking with microwave breast imaging using refined patient specific prior information},
+  author = {Kurrant, Douglas and Baran, Anastasia and Fear, Elise and LoVetri, Joe},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI},
+  pages = {299--299},
+  year = {2015},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;ostadrahimi2015development&quot;&gt;M. Ostadrahimi, A. Baran, M. Asefi, C. Kaye, K. Nemez, J. LoVetri, and S. Pistorius, “On the development of a clinical full-vectorial 3D microwave breast imaging system,” in &lt;i&gt;Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI&lt;/i&gt;, 2015, pp. 300–300. &lt;/span&gt;
+
+&lt;div id=&quot;ostadrahimi2015development-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#ostadrahimi2015development-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;ostadrahimi2015development-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{ostadrahimi2015development,
+  title = {On the development of a clinical full-vectorial 3D microwave breast imaging system},
+  author = {Ostadrahimi, Majid and Baran, Anastasia and Asefi, Mohammad and Kaye, Cameron and Nemez, Kyle and LoVetri, Joe and Pistorius, Stephen},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI},
+  pages = {300--300},
+  year = {2015},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;mojabi2015achievable&quot;&gt;P. Mojabi, N. Bayat, M. Ostadrahimi, A. Zakaria, and J. LoVetri, “On the achievable resolution from microwave tomography,” in &lt;i&gt;Radio Science Conference (URSI AT-RASC), 2015 1st URSI Atlantic&lt;/i&gt;, 2015, pp. 1–1. &lt;/span&gt;
+
+&lt;div id=&quot;mojabi2015achievable-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#mojabi2015achievable-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;mojabi2015achievable-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{mojabi2015achievable,
+  title = {On the achievable resolution from microwave tomography},
+  author = {Mojabi, Puyan and Bayat, Nozhan and Ostadrahimi, Majid and Zakaria, Amer and LoVetri, Joe},
+  booktitle = {Radio Science Conference (URSI AT-RASC), 2015 1st URSI Atlantic},
+  pages = {1--1},
+  year = {2015},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;&lt;/ul&gt;
+&lt;h3 id=&quot;section-3&quot;&gt;2014&lt;/h3&gt;
+&lt;ul class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;jeffrey2014discontinuous&quot;&gt;I. Jeffrey, A. Zakaria, and J. LoVetri, “Discontinuous-Galerkin microwave imaging,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics (ANTEM), 2014 16th International Symposium on&lt;/i&gt;, 2014, pp. 1–2. &lt;/span&gt;
+
+&lt;div id=&quot;jeffrey2014discontinuous-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#jeffrey2014discontinuous-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;jeffrey2014discontinuous-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{jeffrey2014discontinuous,
+  title = {Discontinuous-Galerkin microwave imaging},
+  author = {Jeffrey, Ian and Zakaria, Amer and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics (ANTEM), 2014 16th International Symposium on},
+  pages = {1--2},
+  year = {2014},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;mojabi2014use&quot;&gt;P. Mojabi and J. LoVetri, “Use of Wirtinger calculus in Gauss-Newton inversion of microwave tomography data,” in &lt;i&gt;General Assembly and Scientific Symposium (URSI GASS), 2014 XXXIth URSI&lt;/i&gt;, 2014, pp. 1–4. &lt;/span&gt;
+
+&lt;div id=&quot;mojabi2014use-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#mojabi2014use-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;mojabi2014use-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{mojabi2014use,
+  title = {Use of Wirtinger calculus in Gauss-Newton inversion of microwave tomography data},
+  author = {Mojabi, Puyan and LoVetri, Joe},
+  booktitle = {General Assembly and Scientific Symposium (URSI GASS), 2014 XXXIth URSI},
+  pages = {1--4},
+  year = {2014},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;lovetri2014system&quot;&gt;J. LoVetri, P. Mojabi, A. Zakaria, M. Ostadrahimi, and I. Jeffrey, “System and formulation options for biomedical microwave imaging,” in &lt;i&gt;General Assembly and Scientific Symposium (URSI GASS), 2014 XXXIth URSI&lt;/i&gt;, 2014, pp. 1–4. &lt;/span&gt;
+
+&lt;div id=&quot;lovetri2014system-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lovetri2014system-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;lovetri2014system-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lovetri2014system,
+  title = {System and formulation options for biomedical microwave imaging},
+  author = {LoVetri, Joe and Mojabi, Puyan and Zakaria, Amer and Ostadrahimi, Majid and Jeffrey, Ian},
+  booktitle = {General Assembly and Scientific Symposium (URSI GASS), 2014 XXXIth URSI},
+  pages = {1--4},
+  year = {2014},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;jeffrey2014microwave&quot;&gt;I. Jeffrey, A. Zakaria, and J. LoVetri, “Microwave imaging by mixed-order discontinuous Galerkin contrast source inversion,” in &lt;i&gt;General Assembly and Scientific Symposium (URSI GASS), 2014 XXXIth URSI&lt;/i&gt;, 2014, pp. 1–4. &lt;/span&gt;
+
+&lt;div id=&quot;jeffrey2014microwave-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#jeffrey2014microwave-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;jeffrey2014microwave-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{jeffrey2014microwave,
+  title = {Microwave imaging by mixed-order discontinuous Galerkin contrast source inversion},
+  author = {Jeffrey, Ian and Zakaria, Amer and LoVetri, Joe},
+  booktitle = {General Assembly and Scientific Symposium (URSI GASS), 2014 XXXIth URSI},
+  pages = {1--4},
+  year = {2014},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;ostadrahimi2014novel&quot;&gt;M. OstadRahimi, K. Nemez, A. Zakaria, J. LoVetri, L. Shafai, and S. Pistorius, “A novel microwave tomography system for breast imaging based on the modulated scattering technique,” in &lt;i&gt;Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI&lt;/i&gt;, 2014, pp. 54–54. &lt;/span&gt;
+
+&lt;div id=&quot;ostadrahimi2014novel-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#ostadrahimi2014novel-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;ostadrahimi2014novel-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{ostadrahimi2014novel,
+  title = {A novel microwave tomography system for breast imaging based on the modulated scattering technique},
+  author = {OstadRahimi, Majid and Nemez, Kyle and Zakaria, Amer and LoVetri, Joe and Shafai, Lotfollah and Pistorius, Stephen},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI},
+  pages = {54--54},
+  year = {2014},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;asefi2014grain&quot;&gt;M. Asefi, I. Jeffrey, J. LoVetri, M. Ostadrahimi, A. Zakaria, C. Gilmore, P. Card, and J. Paliwal, “Grain bin monitoring via microwave imaging,” in &lt;i&gt;Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI&lt;/i&gt;, 2014, pp. 8–8. &lt;/span&gt;
+
+&lt;div id=&quot;asefi2014grain-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#asefi2014grain-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;asefi2014grain-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{asefi2014grain,
+  title = {Grain bin monitoring via microwave imaging},
+  author = {Asefi, Mohammad and Jeffrey, Ian and LoVetri, Joe and Ostadrahimi, Majid and Zakaria, Amer and Gilmore, Colin and Card, Paul and Paliwal, Jitendra},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI},
+  pages = {8--8},
+  year = {2014},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;zakaria2014electromagnetic&quot;&gt;A. Zakaria, M. Asefi, M. Ostadrahimi, I. Jeffrey, and J. LoVetri, “Electromagnetic imaging inside metallic enclosures using the normal boundary field components,” in &lt;i&gt;Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI&lt;/i&gt;, 2014, pp. 253–253. &lt;/span&gt;
+
+&lt;div id=&quot;zakaria2014electromagnetic-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#zakaria2014electromagnetic-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;zakaria2014electromagnetic-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{zakaria2014electromagnetic,
+  title = {Electromagnetic imaging inside metallic enclosures using the normal boundary field components},
+  author = {Zakaria, Amer and Asefi, Mohammad and Ostadrahimi, Majid and Jeffrey, Ian and LoVetri, Joe},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI},
+  pages = {253--253},
+  year = {2014},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;jeffrey2014simultaneous&quot;&gt;I. Jeffrey, A. Zakaria, A. Baran, and J. LoVetri, “Simultaneous high-order contrast source inversion of dielectric and magnetic targets,” in &lt;i&gt;Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI&lt;/i&gt;, 2014, pp. 74–74. &lt;/span&gt;
+
+&lt;div id=&quot;jeffrey2014simultaneous-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#jeffrey2014simultaneous-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;jeffrey2014simultaneous-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{jeffrey2014simultaneous,
+  title = {Simultaneous high-order contrast source inversion of dielectric and magnetic targets},
+  author = {Jeffrey, Ian and Zakaria, Amer and Baran, Anastasia and LoVetri, Joe},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI},
+  pages = {74--74},
+  year = {2014},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;mojabi2014microwave&quot;&gt;P. Mojabi and J. LoVetri, “Microwave and ultrasound imaging for biomedical tissue identification,” in &lt;i&gt;Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI&lt;/i&gt;, 2014, pp. 56–56. &lt;/span&gt;
+
+&lt;div id=&quot;mojabi2014microwave-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#mojabi2014microwave-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;mojabi2014microwave-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{mojabi2014microwave,
+  title = {Microwave and ultrasound imaging for biomedical tissue identification},
+  author = {Mojabi, Pedram and LoVetri, Joe},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI},
+  pages = {56--56},
+  year = {2014},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;kaye2014study&quot;&gt;C. Kaye, J. LoVetri, A. Zakaria, and A. Baran, “A study of contrast-enhanced functional microwave imaging,” in &lt;i&gt;Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI&lt;/i&gt;, 2014, pp. 254–254. &lt;/span&gt;
+
+&lt;div id=&quot;kaye2014study-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#kaye2014study-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;kaye2014study-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{kaye2014study,
+  title = {A study of contrast-enhanced functional microwave imaging},
+  author = {Kaye, Cameron and LoVetri, Joe and Zakaria, Amer and Baran, Anastasia},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI},
+  pages = {254--254},
+  year = {2014},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;baran2014breast&quot;&gt;A. Baran, D. Kurrant, A. Zakaria, E. Fear, and J. LoVetri, “Breast cancer imaging using microwave tomography with radar-derived prior information,” in &lt;i&gt;Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI&lt;/i&gt;, 2014, pp. 259–259. &lt;/span&gt;
+
+&lt;div id=&quot;baran2014breast-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#baran2014breast-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;baran2014breast-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{baran2014breast,
+  title = {Breast cancer imaging using microwave tomography with radar-derived prior information},
+  author = {Baran, Anastasia and Kurrant, Doug and Zakaria, Amer and Fear, Elise and LoVetri, Joe},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI},
+  pages = {259--259},
+  year = {2014},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;&lt;/ul&gt;
+&lt;h3 id=&quot;section-4&quot;&gt;2013&lt;/h3&gt;
+&lt;ul class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;jeffrey2013grain&quot;&gt;I. Jeffrey, J. LoVetri, A. Zakaria, M. Ostadrahimi, M. Asefi, C. Gilmore, P. Card, and J. Paliwal, “Grain bin storage monitoring via microwave imaging,” in &lt;i&gt;Radio Science Meeting (Joint with AP-S Symposium), 2013 USNC-URSI&lt;/i&gt;, 2013, pp. 209–209. &lt;/span&gt;
+
+&lt;div id=&quot;jeffrey2013grain-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#jeffrey2013grain-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;jeffrey2013grain-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{jeffrey2013grain,
+  title = {Grain bin storage monitoring via microwave imaging},
+  author = {Jeffrey, Ian and LoVetri, Joe and Zakaria, Amer and Ostadrahimi, Majid and Asefi, Mohammad and Gilmore, Colin and Card, Paul and Paliwal, Jitendra},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2013 USNC-URSI},
+  pages = {209--209},
+  year = {2013},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;jeffrey2013field&quot;&gt;I. Jeffrey and J. LoVetri, “Field and contrast eigenfunction expansions and their application to microwave imaging algorithms,” in &lt;i&gt;Radio Science Meeting (Joint with AP-S Symposium), 2013 USNC-URSI&lt;/i&gt;, 2013, pp. 38–38. &lt;/span&gt;
+
+&lt;div id=&quot;jeffrey2013field-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#jeffrey2013field-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;jeffrey2013field-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{jeffrey2013field,
+  title = {Field and contrast eigenfunction expansions and their application to microwave imaging algorithms},
+  author = {Jeffrey, Ian and LoVetri, Joe},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2013 USNC-URSI},
+  pages = {38--38},
+  year = {2013},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;asefi2013analysis&quot;&gt;M. Asefi, M. Ostadrahimi, J. LoVetri, and L. Shafai, “Analysis of a 3D microwave imaging system,” in &lt;i&gt;Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE&lt;/i&gt;, 2013, pp. 608–609. &lt;/span&gt;
+
+&lt;div id=&quot;asefi2013analysis-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#asefi2013analysis-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;asefi2013analysis-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{asefi2013analysis,
+  title = {Analysis of a 3D microwave imaging system},
+  author = {Asefi, Mohammad and Ostadrahimi, Majid and LoVetri, Joe and Shafai, Lotfollah},
+  booktitle = {Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE},
+  pages = {608--609},
+  year = {2013},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;zakaria2013novel&quot;&gt;A. Zakaria, I. Jeffrey, M. Ostadrahimi, M. Asefi, and J. LoVetri, “A novel 3d near-field microwave imaging system,” in &lt;i&gt;Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE&lt;/i&gt;, 2013, pp. 816–817. &lt;/span&gt;
+
+&lt;div id=&quot;zakaria2013novel-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#zakaria2013novel-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;zakaria2013novel-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{zakaria2013novel,
+  title = {A novel 3d near-field microwave imaging system},
+  author = {Zakaria, Amer and Jeffrey, Ian and Ostadrahimi, Majid and Asefi, Mohammad and LoVetri, Joe},
+  booktitle = {Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE},
+  pages = {816--817},
+  year = {2013},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;ostadrahimi2013mst&quot;&gt;M. Ostadrahimi, M. Asefi, J. LoVetri, G. E. Bridges, and L. Shafai, “An MST-based microwave tomography system using homodyne receiver,” in &lt;i&gt;Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE&lt;/i&gt;, 2013, pp. 814–815. &lt;/span&gt;
+
+&lt;div id=&quot;ostadrahimi2013mst-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#ostadrahimi2013mst-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;ostadrahimi2013mst-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{ostadrahimi2013mst,
+  title = {An MST-based microwave tomography system using homodyne receiver},
+  author = {Ostadrahimi, Majid and Asefi, Mohammad and LoVetri, Joe and Bridges, Greg E and Shafai, Lotfollah},
+  booktitle = {Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE},
+  pages = {814--815},
+  year = {2013},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;baran2013investigation&quot;&gt;A. Baran, C. Kaye, A. Zakaria, and J. LoVetri, “Investigation of tumour detection using contrast agents and FEM-CSI in biomedical microwave tomography,” in &lt;i&gt;Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE&lt;/i&gt;, 2013, pp. 540–541. &lt;/span&gt;
+
+&lt;div id=&quot;baran2013investigation-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#baran2013investigation-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;baran2013investigation-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{baran2013investigation,
+  title = {Investigation of tumour detection using contrast agents and FEM-CSI in biomedical microwave tomography},
+  author = {Baran, Anastasia and Kaye, Cameron and Zakaria, Amer and LoVetri, Joe},
+  booktitle = {Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE},
+  pages = {540--541},
+  year = {2013},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;kaye2013exploration&quot;&gt;C. Kaye, J. LoVetri, A. Zakaria, and A. Baran, “Exploration of novel contrast agents for functional imaging using microwave tomography,” in &lt;i&gt;Radio Science Meeting (Joint with AP-S Symposium), 2013 USNC-URSI&lt;/i&gt;, 2013, pp. 31–31. &lt;/span&gt;
+
+&lt;div id=&quot;kaye2013exploration-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#kaye2013exploration-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;kaye2013exploration-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{kaye2013exploration,
+  title = {Exploration of novel contrast agents for functional imaging using microwave tomography},
+  author = {Kaye, Cameron and LoVetri, Joe and Zakaria, Amer and Baran, Anastasia},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2013 USNC-URSI},
+  pages = {31--31},
+  year = {2013},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;asefi2013226&quot;&gt;M. Asefi, M. Ostadrahimi, J. LoVetri, and L. Shafai, “226.4: ANALYSIS OF A 3D MICROWAVE IMAGING SYSTEM,” in &lt;i&gt;INTERNATIONAL SYMPOSIUM DIGEST ANTENNAS AND PROPAGATION&lt;/i&gt;, 2013, vol. 1, no. 1, pp. 608–608. &lt;/span&gt;
+
+&lt;div id=&quot;asefi2013226-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#asefi2013226-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;asefi2013226-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{asefi2013226,
+  title = {226.4: ANALYSIS OF A 3D MICROWAVE IMAGING SYSTEM},
+  author = {Asefi, M and Ostadrahimi, M and LoVetri, J and Shafai, L},
+  booktitle = {INTERNATIONAL SYMPOSIUM DIGEST ANTENNAS AND PROPAGATION},
+  volume = {1},
+  number = {1},
+  pages = {608--608},
+  year = {2013},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;baran2013213&quot;&gt;A. Baran, C. Kaye, A. Zakaria, and J. LoVetri, “213.9: INVESTIGATION OF TUMOUR DETECTION USING CONTRAST AGENTS AND FEM-CSI IN BIOMEDICAL MICROWAVE TOMOGRAPHY,” in &lt;i&gt;INTERNATIONAL SYMPOSIUM DIGEST ANTENNAS AND PROPAGATION&lt;/i&gt;, 2013, vol. 1, no. 1, pp. 540–540. &lt;/span&gt;
+
+&lt;div id=&quot;baran2013213-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#baran2013213-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;baran2013213-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{baran2013213,
+  title = {213.9: INVESTIGATION OF TUMOUR DETECTION USING CONTRAST AGENTS AND FEM-CSI IN BIOMEDICAL MICROWAVE TOMOGRAPHY},
+  author = {Baran, A and Kaye, C and Zakaria, A and LoVetri, J},
+  booktitle = {INTERNATIONAL SYMPOSIUM DIGEST ANTENNAS AND PROPAGATION},
+  volume = {1},
+  number = {1},
+  pages = {540--540},
+  year = {2013},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;ostadrahimi2013313&quot;&gt;M. Ostadrahimi, M. Asefi, J. LoVetri, G. Bridges, and L. Shafai, “313.5: AN MST-BASED MICROWAVE TOMOGRAPHY SYSTEM USING HOMODYNE RECEIVER,” in &lt;i&gt;INTERNATIONAL SYMPOSIUM DIGEST ANTENNAS AND PROPAGATION&lt;/i&gt;, 2013, vol. 1, no. 2, pp. 814–814. &lt;/span&gt;
+
+&lt;div id=&quot;ostadrahimi2013313-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#ostadrahimi2013313-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;ostadrahimi2013313-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{ostadrahimi2013313,
+  title = {313.5: AN MST-BASED MICROWAVE TOMOGRAPHY SYSTEM USING HOMODYNE RECEIVER},
+  author = {Ostadrahimi, M and Asefi, M and LoVetri, J and Bridges, G and Shafai, L},
+  booktitle = {INTERNATIONAL SYMPOSIUM DIGEST ANTENNAS AND PROPAGATION},
+  volume = {1},
+  number = {2},
+  pages = {814--814},
+  year = {2013},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;zakaria2013313&quot;&gt;A. Zakaria, I. Jeffrey, M. Ostadrahimi, M. Asefi, and J. LoVetri, “313.6: A NOVEL 3D NEAR-FIELD MICROWAVE IMAGING SYSTEM,” in &lt;i&gt;INTERNATIONAL SYMPOSIUM DIGEST ANTENNAS AND PROPAGATION&lt;/i&gt;, 2013, vol. 1, no. 2, pp. 816–816. &lt;/span&gt;
+
+&lt;div id=&quot;zakaria2013313-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#zakaria2013313-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;zakaria2013313-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{zakaria2013313,
+  title = {313.6: A NOVEL 3D NEAR-FIELD MICROWAVE IMAGING SYSTEM},
+  author = {Zakaria, A and Jeffrey, I and Ostadrahimi, M and Asefi, M and LoVetri, J},
+  booktitle = {INTERNATIONAL SYMPOSIUM DIGEST ANTENNAS AND PROPAGATION},
+  volume = {1},
+  number = {2},
+  pages = {816--816},
+  year = {2013},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;&lt;/ul&gt;
+&lt;h3 id=&quot;section-5&quot;&gt;2012&lt;/h3&gt;
+&lt;ul class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;mojabi2012microwave&quot;&gt;P. Mojabi, M. Ostadrahimi, L. Shafai, and J. LoVetri, “Microwave tomography techniques and algorithms: A review,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics (ANTEM), 2012 15th International Symposium on&lt;/i&gt;, 2012, pp. 1–4. &lt;/span&gt;
+
+&lt;div id=&quot;mojabi2012microwave-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#mojabi2012microwave-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;mojabi2012microwave-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{mojabi2012microwave,
+  title = {Microwave tomography techniques and algorithms: A review},
+  author = {Mojabi, Puyan and Ostadrahimi, Majid and Shafai, Lotfollah and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics (ANTEM), 2012 15th International Symposium on},
+  pages = {1--4},
+  year = {2012},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;jeffrey2012comparative&quot;&gt;I. Jeffrey, J. LoVetri, and C. Fumeaux, “A comparative study of volumetric vs. subcell modeling of thin-wire structures in FVTD,” in &lt;i&gt;Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE&lt;/i&gt;, 2012, pp. 1–2. &lt;/span&gt;
+
+&lt;div id=&quot;jeffrey2012comparative-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#jeffrey2012comparative-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;jeffrey2012comparative-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{jeffrey2012comparative,
+  title = {A comparative study of volumetric vs. subcell modeling of thin-wire structures in FVTD},
+  author = {Jeffrey, Ian and LoVetri, Joe and Fumeaux, Christophe},
+  booktitle = {Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE},
+  pages = {1--2},
+  year = {2012},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;ostadrahimi2012evaluation&quot;&gt;M. Ostadrahimi, A. Zakaria, P. Mojabi, J. LoVetri, and L. Shafai, “Evaluation of a microwave tomography system for animal tissue imaging,” in &lt;i&gt;Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE&lt;/i&gt;, 2012, pp. 1–2. &lt;/span&gt;
+
+&lt;div id=&quot;ostadrahimi2012evaluation-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#ostadrahimi2012evaluation-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;ostadrahimi2012evaluation-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{ostadrahimi2012evaluation,
+  title = {Evaluation of a microwave tomography system for animal tissue imaging},
+  author = {Ostadrahimi, Majid and Zakaria, Amer and Mojabi, Puyan and LoVetri, Joe and Shafai, Lotfollah},
+  booktitle = {Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE},
+  pages = {1--2},
+  year = {2012},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;zakaria2012implementation&quot;&gt;A. Zakaria and J. LoVetri, “On the implementation of a three-dimensional finite-element contrast source inversion method,” in &lt;i&gt;Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE&lt;/i&gt;, 2012, pp. 1–2. &lt;/span&gt;
+
+&lt;div id=&quot;zakaria2012implementation-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#zakaria2012implementation-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;zakaria2012implementation-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{zakaria2012implementation,
+  title = {On the implementation of a three-dimensional finite-element contrast source inversion method},
+  author = {Zakaria, Amer and LoVetri, Joe},
+  booktitle = {Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE},
+  pages = {1--2},
+  year = {2012},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;ostadrahimi2012enhancement&quot;&gt;M. Ostadrahimi, P. Mojabi, J. LoVetri, L. Shafai, and S. Noghanian, “Enhancement of near-field probing in a microwave tomography system,” in &lt;i&gt;Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE&lt;/i&gt;, 2012, pp. 1–2. &lt;/span&gt;
+
+&lt;div id=&quot;ostadrahimi2012enhancement-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#ostadrahimi2012enhancement-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;ostadrahimi2012enhancement-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{ostadrahimi2012enhancement,
+  title = {Enhancement of near-field probing in a microwave tomography system},
+  author = {Ostadrahimi, Majid and Mojabi, Puyan and LoVetri, Joe and Shafai, Lotfollah and Noghanian, Sima},
+  booktitle = {Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE},
+  pages = {1--2},
+  year = {2012},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;zakaria2012three&quot;&gt;A. Zakaria, I. Jeffrey, and J. LoVetri, “A Three-Dimensional Finite-Element Contrast Source Inversion Method for Microwave Imaging Applications,” 2012. &lt;/span&gt;
+
+&lt;div id=&quot;zakaria2012three-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#zakaria2012three-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;zakaria2012three-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{zakaria2012three,
+  title = {A Three-Dimensional Finite-Element Contrast Source Inversion Method for Microwave Imaging Applications},
+  author = {Zakaria, Amer and Jeffrey, Ian and LoVetri, Joe},
+  year = {2012},
+  organization = {AES}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;&lt;/ul&gt;
+&lt;h3 id=&quot;section-6&quot;&gt;2011&lt;/h3&gt;
+&lt;ul class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;gilmore2011deconvolutional&quot;&gt;C. Gilmore, A. Abubakar, J. LoVetri, S. Pistorius, and P. M. van den Berg, “A deconvolutional technique for microwave data calibration,” in &lt;i&gt;Antennas and Propagation (APSURSI), 2011 IEEE International Symposium on&lt;/i&gt;, 2011, pp. 2549–2552. &lt;/span&gt;
+
+&lt;div id=&quot;gilmore2011deconvolutional-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#gilmore2011deconvolutional-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;gilmore2011deconvolutional-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{gilmore2011deconvolutional,
+  title = {A deconvolutional technique for microwave data calibration},
+  author = {Gilmore, Colin and Abubakar, Aria and LoVetri, Joe and Pistorius, Stephen and van den Berg, Peter M},
+  booktitle = {Antennas and Propagation (APSURSI), 2011 IEEE International Symposium on},
+  pages = {2549--2552},
+  year = {2011},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;&lt;/ul&gt;
+&lt;h3 id=&quot;section-7&quot;&gt;2010&lt;/h3&gt;
+&lt;ul class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;kasem2010fast&quot;&gt;A. Kasem, C. Gilmore, J. LoVetri, S. Pistorius, and S. Sherif, “Fast simulation of all orders of multiple-scattered light in swept source optical coherence tomography,” in &lt;i&gt;Photonics North 2010&lt;/i&gt;, 2010, pp. 77500B–77500B. &lt;/span&gt;
+
+&lt;div id=&quot;kasem2010fast-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#kasem2010fast-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;kasem2010fast-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{kasem2010fast,
+  title = {Fast simulation of all orders of multiple-scattered light in swept source optical coherence tomography},
+  author = {Kasem, Aladin and Gilmore, Colin and LoVetri, Joe and Pistorius, Stephen and Sherif, Sherif},
+  booktitle = {Photonics North 2010},
+  pages = {77500B--77500B},
+  year = {2010},
+  organization = {International Society for Optics and Photonics}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;zakaria2010study&quot;&gt;A. Zakaria and J. LoVetri, “A study of adaptive meshing in FEM-CSI for microwave tomography,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics &amp;amp; the American Electromagnetics Conference (ANTEM-AMEREM), 2010 14th International Symposium on&lt;/i&gt;, 2010, pp. 1–4. &lt;/span&gt;
+
+&lt;div id=&quot;zakaria2010study-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#zakaria2010study-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;zakaria2010study-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{zakaria2010study,
+  title = {A study of adaptive meshing in FEM-CSI for microwave tomography},
+  author = {Zakaria, Amer and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics \&amp;amp; the American Electromagnetics Conference (ANTEM-AMEREM), 2010 14th International Symposium on},
+  pages = {1--4},
+  year = {2010},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;&lt;/ul&gt;
+&lt;h3 id=&quot;section-8&quot;&gt;2009&lt;/h3&gt;
+&lt;ul class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;mojabi2009biomedical&quot;&gt;P. Mojabi, C. Gilmore, A. Zakaria, and J. LoVetri, “Biomedical microwave inversion in conducting cylinders of arbitrary shapes,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics and the Canadian Radio Science Meeting, 2009. ANTEM/URSI 2009. 13th International Symposium on&lt;/i&gt;, 2009, pp. 1–4. &lt;/span&gt;
+
+&lt;div id=&quot;mojabi2009biomedical-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#mojabi2009biomedical-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;mojabi2009biomedical-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{mojabi2009biomedical,
+  title = {Biomedical microwave inversion in conducting cylinders of arbitrary shapes},
+  author = {Mojabi, Puyan and Gilmore, Colin and Zakaria, Amer and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics and the Canadian Radio Science Meeting, 2009. ANTEM/URSI 2009. 13th International Symposium on},
+  pages = {1--4},
+  year = {2009},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;zakaria2009experimental&quot;&gt;A. Zakaria, C. Kaye, I. Jeffrey, and J. LoVetri, “Experimental validation of thin-wire FVTD models,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics and the Canadian Radio Science Meeting, 2009. ANTEM/URSI 2009. 13th International Symposium on&lt;/i&gt;, 2009, pp. 1–4. &lt;/span&gt;
+
+&lt;div id=&quot;zakaria2009experimental-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#zakaria2009experimental-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;zakaria2009experimental-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{zakaria2009experimental,
+  title = {Experimental validation of thin-wire FVTD models},
+  author = {Zakaria, Amer and Kaye, Cameron and Jeffrey, Ian and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics and the Canadian Radio Science Meeting, 2009. ANTEM/URSI 2009. 13th International Symposium on},
+  pages = {1--4},
+  year = {2009},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;gilmore2009ultra&quot;&gt;C. Gilmore, P. Mojabi, A. Zakaria, M. Ostadrahimi, C. Kaye, S. Noghanian, L. Shafai, S. Pistorius, and J. LoVetri, “An ultra-wideband microwave tomography system: preliminary results,” in &lt;i&gt;Engineering in Medicine and Biology Society, 2009. EMBC 2009. Annual International Conference of the IEEE&lt;/i&gt;, 2009, pp. 2288–2291. &lt;/span&gt;
+
+&lt;div id=&quot;gilmore2009ultra-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#gilmore2009ultra-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;gilmore2009ultra-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{gilmore2009ultra,
+  title = {An ultra-wideband microwave tomography system: preliminary results},
+  author = {Gilmore, Colin and Mojabi, Puyan and Zakaria, Amer and Ostadrahimi, Majid and Kaye, Cam and Noghanian, Sima and Shafai, Lotfollah and Pistorius, Stephen and LoVetri, Joe},
+  booktitle = {Engineering in Medicine and Biology Society, 2009. EMBC 2009. Annual International Conference of the IEEE},
+  pages = {2288--2291},
+  year = {2009},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;&lt;/ul&gt;
+&lt;h3 id=&quot;section-9&quot;&gt;2008&lt;/h3&gt;
+&lt;ul class=&quot;bibliography&quot;&gt;&lt;/ul&gt;
+&lt;h3 id=&quot;section-10&quot;&gt;2007&lt;/h3&gt;
+&lt;ul class=&quot;bibliography&quot;&gt;&lt;/ul&gt;
+&lt;h3 id=&quot;section-11&quot;&gt;2001 - 2006&lt;/h3&gt;
+&lt;ul class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;gilmore2006fourier&quot;&gt;C. Gilmore and J. LoVetri, “On fourier imaging techniques for biomedical imaging,” in &lt;i&gt;Antennas and Propagation Society International Symposium 2006, IEEE&lt;/i&gt;, 2006, pp. 279–282. &lt;/span&gt;
+
+&lt;div id=&quot;gilmore2006fourier-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#gilmore2006fourier-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;gilmore2006fourier-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{gilmore2006fourier,
+  title = {On fourier imaging techniques for biomedical imaging},
+  author = {Gilmore, Colin and LoVetri, Joe},
+  booktitle = {Antennas and Propagation Society International Symposium 2006, IEEE},
+  pages = {279--282},
+  year = {2006},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;jeffrey2006modified&quot;&gt;I. Jeffrey, V. I. Okhmatovski, and J. LoVetri, “A modified well-conditioned iterative solution to the 1D inverse scattering problem using the Born iterative method,” in &lt;i&gt;Antennas and Propagation Society International Symposium 2006, IEEE&lt;/i&gt;, 2006, pp. 1387–1390. &lt;/span&gt;
+
+&lt;div id=&quot;jeffrey2006modified-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#jeffrey2006modified-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;jeffrey2006modified-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{jeffrey2006modified,
+  title = {A modified well-conditioned iterative solution to the 1D inverse scattering problem using the Born iterative method},
+  author = {Jeffrey, Ian and Okhmatovski, Vladimir I and LoVetri, Joe},
+  booktitle = {Antennas and Propagation Society International Symposium 2006, IEEE},
+  pages = {1387--1390},
+  year = {2006},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;siushansian2006evaluation&quot;&gt;R. Siushansian, N. R. S. Simons, and J. LoVetri, “Evaluation of the FVTD technique for electromagnetic field problems containing highly inhomogeneous structures,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics and Canadian Radio Sciences Conference, 2006. ANTEM 2006. 12th International Symposium on&lt;/i&gt;, 2006, pp. 1–4. &lt;/span&gt;
+
+&lt;div id=&quot;siushansian2006evaluation-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#siushansian2006evaluation-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;siushansian2006evaluation-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{siushansian2006evaluation,
+  title = {Evaluation of the FVTD technique for electromagnetic field problems containing highly inhomogeneous structures},
+  author = {Siushansian, R and Simons, NRS and LoVetri, J},
+  booktitle = {Antenna Technology and Applied Electromagnetics and Canadian Radio Sciences Conference, 2006. ANTEM 2006. 12th International Symposium on},
+  pages = {1--4},
+  year = {2006},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;jeffrey2004hardware&quot;&gt;I. Jeffrey, J. LoVetri, and B. Kordi, “Hardware invariant protocol disruptive interference,” in &lt;i&gt;Electromagnetic Compatibility, 2004. EMC 2004. 2004 InternationalSymposium on&lt;/i&gt;, 2004, vol. 2, pp. 703–707. &lt;/span&gt;
+
+&lt;div id=&quot;jeffrey2004hardware-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#jeffrey2004hardware-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;jeffrey2004hardware-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{jeffrey2004hardware,
+  title = {Hardware invariant protocol disruptive interference},
+  author = {Jeffrey, Ian and LoVetri, Joe and Kordi, Behzad},
+  booktitle = {Electromagnetic Compatibility, 2004. EMC 2004. 2004 InternationalSymposium on},
+  volume = {2},
+  pages = {703--707},
+  year = {2004},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;okhmatovski2005well&quot;&gt;V. Okhmatovski and J. LoVetri, “A well-conditioned formulation of 1D inverse scattering problem under the Born approximation,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics [ANTEM 2005], 11th International Symposium on&lt;/i&gt;, 2005, pp. 1–4. &lt;/span&gt;
+
+&lt;div id=&quot;okhmatovski2005well-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#okhmatovski2005well-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;okhmatovski2005well-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{okhmatovski2005well,
+  title = {A well-conditioned formulation of 1D inverse scattering problem under the Born approximation},
+  author = {Okhmatovski, Vladimir and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics [ANTEM 2005], 11th International Symposium on},
+  pages = {1--4},
+  year = {2005},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;kordi2005time&quot;&gt;B. Kordi, G. Bridges, J. LoVetri, and A. Foroozesh, “Time-domain analysis of lossy-substrate interconnects with frequency-dependent parameters,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics [ANTEM 2005], 11th International Symposium on&lt;/i&gt;, 2005, pp. 1–4. &lt;/span&gt;
+
+&lt;div id=&quot;kordi2005time-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#kordi2005time-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;kordi2005time-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{kordi2005time,
+  title = {Time-domain analysis of lossy-substrate interconnects with frequency-dependent parameters},
+  author = {Kordi, Behzad and Bridges, Greg and LoVetri, Joe and Foroozesh, Alireza},
+  booktitle = {Antenna Technology and Applied Electromagnetics [ANTEM 2005], 11th International Symposium on},
+  pages = {1--4},
+  year = {2005},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;kordi2004calibration&quot;&gt;B. Kordi, J. L. Vetri, G. Bridges, and I. Jeffrey, “Calibration methods for electric field probes and GTEM cells,” in &lt;i&gt;Electromagnetic Compatibility, 2004. EMC 2004. 2004 InternationalSymposium on&lt;/i&gt;, 2004, vol. 3, pp. 908–912. &lt;/span&gt;
+
+&lt;div id=&quot;kordi2004calibration-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#kordi2004calibration-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;kordi2004calibration-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{kordi2004calibration,
+  title = {Calibration methods for electric field probes and GTEM cells},
+  author = {Kordi, Behzad and Vetri, J Lo and Bridges, Greg and Jeffrey, I},
+  booktitle = {Electromagnetic Compatibility, 2004. EMC 2004. 2004 InternationalSymposium on},
+  volume = {3},
+  pages = {908--912},
+  year = {2004},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;kordi2004integration&quot;&gt;B. Kordi, J. LoVetri, and G. Bridges, “Integration of an FDTD analysis of lossy multiconductor transmission lines within a general-purpose circuit simulator,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics and URSI Conference, 2004. ANTEM 2004. 10th International Symposium on&lt;/i&gt;, 2004, pp. 1–4. &lt;/span&gt;
+
+&lt;div id=&quot;kordi2004integration-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#kordi2004integration-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;kordi2004integration-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{kordi2004integration,
+  title = {Integration of an FDTD analysis of lossy multiconductor transmission lines within a general-purpose circuit simulator},
+  author = {Kordi, Behzad and LoVetri, Joe and Bridges, Greg},
+  booktitle = {Antenna Technology and Applied Electromagnetics and URSI Conference, 2004. ANTEM 2004. 10th International Symposium on},
+  pages = {1--4},
+  year = {2004},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;phelan2004polarimetric&quot;&gt;M. Phelan and J. LoVetri, “Polarimetric bistatic GPR imaging and detection of landmines in the near field with the ‘Vampire Effect,’” in &lt;i&gt;Antenna Technology and Applied Electromagnetics and URSI Conference, 2004. ANTEM 2004. 10th International Symposium on&lt;/i&gt;, 2004, pp. 1–5. &lt;/span&gt;
+
+&lt;div id=&quot;phelan2004polarimetric-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#phelan2004polarimetric-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;phelan2004polarimetric-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{phelan2004polarimetric,
+  title = {Polarimetric bistatic GPR imaging and detection of landmines in the near field with the “Vampire Effect”},
+  author = {Phelan, Michael and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics and URSI Conference, 2004. ANTEM 2004. 10th International Symposium on},
+  pages = {1--5},
+  year = {2004},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;gilmore2006novel&quot;&gt;C. Gilmore, I. Jeffrey, V. I. Okhmatovski, and J. LoVetri, “A novel multi-frequency regularization method for the 2D inverse scattering problem under the born iterative method,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics and Canadian Radio Sciences Conference, 2006. ANTEM 2006. 12th International Symposium on&lt;/i&gt;, 2006, pp. 1–4. &lt;/span&gt;
+
+&lt;div id=&quot;gilmore2006novel-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#gilmore2006novel-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;gilmore2006novel-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{gilmore2006novel,
+  title = {A novel multi-frequency regularization method for the 2D inverse scattering problem under the born iterative method},
+  author = {Gilmore, C and Jeffrey, I and Okhmatovski, VI and LoVetri, J},
+  booktitle = {Antenna Technology and Applied Electromagnetics and Canadian Radio Sciences Conference, 2006. ANTEM 2006. 12th International Symposium on},
+  pages = {1--4},
+  year = {2006},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;phelan2004discrimination&quot;&gt;M. Phelan and J. LoVetri, “Discrimination of subsurface targets with a plane of symmetry using polarimetric bistatic radar,” in &lt;i&gt;Ground Penetrating Radar, 2004. GPR 2004. Proceedings of the Tenth International Conference on&lt;/i&gt;, 2004, vol. 1, pp. 49–52. &lt;/span&gt;
+
+&lt;div id=&quot;phelan2004discrimination-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#phelan2004discrimination-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;phelan2004discrimination-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{phelan2004discrimination,
+  title = {Discrimination of subsurface targets with a plane of symmetry using polarimetric bistatic radar},
+  author = {Phelan, Michael and LoVetri, Joe},
+  booktitle = {Ground Penetrating Radar, 2004. GPR 2004. Proceedings of the Tenth International Conference on},
+  volume = {1},
+  pages = {49--52},
+  year = {2004},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;thomas2001sidelobe&quot;&gt;G. Thomas, J. LoVetri, W. Chamma, S. Kashyap, and A. Louie, “Sidelobe apodization for high resolution of scattering centres in ISAR images,” in &lt;i&gt;Antennas and Propagation Society International Symposium, 2001. IEEE&lt;/i&gt;, 2001, vol. 2, pp. 232–235. &lt;/span&gt;
+
+&lt;div id=&quot;thomas2001sidelobe-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#thomas2001sidelobe-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;thomas2001sidelobe-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{thomas2001sidelobe,
+  title = {Sidelobe apodization for high resolution of scattering centres in ISAR images},
+  author = {Thomas, G and LoVetri, J and Chamma, W and Kashyap, S and Louie, A},
+  booktitle = {Antennas and Propagation Society International Symposium, 2001. IEEE},
+  volume = {2},
+  pages = {232--235},
+  year = {2001},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;gilmore2004gpr&quot;&gt;C. Gilmore, S. Peters, J. LoVetri, and D. McNeill, “GPR target detection using a neural network classifier of image moments as invariant features,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics and URSI Conference, 2004. ANTEM 2004. 10th International Symposium on&lt;/i&gt;, 2004, pp. 1–4. &lt;/span&gt;
+
+&lt;div id=&quot;gilmore2004gpr-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#gilmore2004gpr-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;gilmore2004gpr-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{gilmore2004gpr,
+  title = {GPR target detection using a neural network classifier of image moments as invariant features},
+  author = {Gilmore, Colin and Peters, Scott and LoVetri, Joe and McNeill, Dean},
+  booktitle = {Antenna Technology and Applied Electromagnetics and URSI Conference, 2004. ANTEM 2004. 10th International Symposium on},
+  pages = {1--4},
+  year = {2004},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;belokour2001higher&quot;&gt;I. Belokour, J. LoVetri, and S. Kashyap, “A higher-order mode transmission line model of the shielding effectiveness of enclosures with apertures,” in &lt;i&gt;Electromagnetic Compatibility, 2001. EMC. 2001 IEEE International Symposium on&lt;/i&gt;, 2001, vol. 2, pp. 702–707. &lt;/span&gt;
+
+&lt;div id=&quot;belokour2001higher-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#belokour2001higher-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;belokour2001higher-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{belokour2001higher,
+  title = {A higher-order mode transmission line model of the shielding effectiveness of enclosures with apertures},
+  author = {Belokour, I and LoVetri, J and Kashyap, S},
+  booktitle = {Electromagnetic Compatibility, 2001. EMC. 2001 IEEE International Symposium on},
+  volume = {2},
+  pages = {702--707},
+  year = {2001},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;makaran2001prediction&quot;&gt;J. E. Makaran and J. LoVetri, “Prediction of conducted RFI emissions in BLDC motors for automotive applications,” in &lt;i&gt;Electromagnetic Compatibility, 2001. EMC. 2001 IEEE International Symposium on&lt;/i&gt;, 2001, vol. 1, pp. 21–25. &lt;/span&gt;
+
+&lt;div id=&quot;makaran2001prediction-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#makaran2001prediction-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;makaran2001prediction-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{makaran2001prediction,
+  title = {Prediction of conducted RFI emissions in BLDC motors for automotive applications},
+  author = {Makaran, JE and LoVetri, J},
+  booktitle = {Electromagnetic Compatibility, 2001. EMC. 2001 IEEE International Symposium on},
+  volume = {1},
+  pages = {21--25},
+  year = {2001},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;&lt;/ul&gt;
+&lt;h3 id=&quot;section-12&quot;&gt;1995-2000&lt;/h3&gt;
+&lt;ul class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;belokour2000shielding&quot;&gt;I. Belokour, J. LoVetri, and S. Kashyap, “Shielding effectiveness estimation of enclosures with apertures,” in &lt;i&gt;Electromagnetic Compatibility, 2000. IEEE International Symposium on&lt;/i&gt;, 2000, vol. 2, pp. 855–860. &lt;/span&gt;
+
+&lt;div id=&quot;belokour2000shielding-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#belokour2000shielding-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;belokour2000shielding-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{belokour2000shielding,
+  title = {Shielding effectiveness estimation of enclosures with apertures},
+  author = {Belokour, I and LoVetri, J and Kashyap, S},
+  booktitle = {Electromagnetic Compatibility, 2000. IEEE International Symposium on},
+  volume = {2},
+  pages = {855--860},
+  year = {2000},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;lovetri1999microwave&quot;&gt;J. LoVetri, A. T. M. Wilbers, and A. P. M. Zwamborn, “Microwave interaction with a personal computer: experiment and modeling,” in &lt;i&gt;Proc. of the 13th Int. Zurich Symp. on EMC, Zurich, Switzerland&lt;/i&gt;, 1999, pp. 203–206. &lt;/span&gt;
+
+&lt;div id=&quot;lovetri1999microwave-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lovetri1999microwave-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;lovetri1999microwave-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lovetri1999microwave,
+  title = {Microwave interaction with a personal computer: experiment and modeling},
+  author = {LoVetri, J and Wilbers, ATM and Zwamborn, APM},
+  booktitle = {Proc. of the 13th Int. Zurich Symp. on EMC, Zurich, Switzerland},
+  pages = {203--206},
+  year = {1999}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;lovetri1998feasibility&quot;&gt;J. LoVetri, S. Primak, B. J. A. M. van Leersum, and A. P. M. Zwamborn, “Feasibility study into the identification of landmines using UWB radar: An analysis using synthesized data,” in &lt;i&gt;Ultra-Wideband Short-Pulse Electromagnetics 4, 1998&lt;/i&gt;, 1998, pp. 425–432. &lt;/span&gt;
+
+&lt;div id=&quot;lovetri1998feasibility-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lovetri1998feasibility-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;lovetri1998feasibility-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lovetri1998feasibility,
+  title = {Feasibility study into the identification of landmines using UWB radar: An analysis using synthesized data},
+  author = {LoVetri, J and Primak, S and van Leersum, BJAM and Zwamborn, APM},
+  booktitle = {Ultra-Wideband Short-Pulse Electromagnetics 4, 1998},
+  pages = {425--432},
+  year = {1998},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;primak2000estimation&quot;&gt;S. Primak and J. L. Vetri, “Estimation and numerical simulation of EM field inside leaky enclosures,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics [ANTEM 2000], Symposium on&lt;/i&gt;, 2000, pp. 365–368. &lt;/span&gt;
+
+&lt;div id=&quot;primak2000estimation-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#primak2000estimation-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;primak2000estimation-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{primak2000estimation,
+  title = {Estimation and numerical simulation of EM field inside leaky enclosures},
+  author = {Primak, Serguei and Vetri, Joe Lo},
+  booktitle = {Antenna Technology and Applied Electromagnetics [ANTEM 2000], Symposium on},
+  pages = {365--368},
+  year = {2000},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;siushansian2000formulation&quot;&gt;R. Siushansian, N. R. S. Simons, and J. LoVetri, “Formulation of lumped elements in a general (conformal) coordinate system,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics [ANTEM 2000], Symposium on&lt;/i&gt;, 2000, pp. 329–332. &lt;/span&gt;
+
+&lt;div id=&quot;siushansian2000formulation-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#siushansian2000formulation-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;siushansian2000formulation-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{siushansian2000formulation,
+  title = {Formulation of lumped elements in a general (conformal) coordinate system},
+  author = {Siushansian, R and Simons, NRS and LoVetri, J},
+  booktitle = {Antenna Technology and Applied Electromagnetics [ANTEM 2000], Symposium on},
+  pages = {329--332},
+  year = {2000},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;lapohos1998experimental&quot;&gt;T. Lapohos, J. LoVetri, J. Seregelyi, and N. Somons, “Experimental validation of numerical models for packaged MTL networks in non-plane wave external fields,” in &lt;i&gt;Electromagnetic Compatibility, 1998. 1998 IEEE International Symposium on&lt;/i&gt;, 1998, vol. 2, pp. 969–974. &lt;/span&gt;
+
+&lt;div id=&quot;lapohos1998experimental-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lapohos1998experimental-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;lapohos1998experimental-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lapohos1998experimental,
+  title = {Experimental validation of numerical models for packaged MTL networks in non-plane wave external fields},
+  author = {Lapohos, Tibor and LoVetri, Joe and Seregelyi, Joe and Somons, N},
+  booktitle = {Electromagnetic Compatibility, 1998. 1998 IEEE International Symposium on},
+  volume = {2},
+  pages = {969--974},
+  year = {1998},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;primak1998towards&quot;&gt;S. Primak, J. LoVetri, and S. Kashyap, “Towards a theory of submarine mast detection,” in &lt;i&gt;Ultra-Wideband Short-Pulse Electromagnetics 4, 1998&lt;/i&gt;, 1998, pp. 379–386. &lt;/span&gt;
+
+&lt;div id=&quot;primak1998towards-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#primak1998towards-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;primak1998towards-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{primak1998towards,
+  title = {Towards a theory of submarine mast detection},
+  author = {Primak, S and LoVetri, J and Kashyap, S},
+  booktitle = {Ultra-Wideband Short-Pulse Electromagnetics 4, 1998},
+  pages = {379--386},
+  year = {1998},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;lovetri1998analysis&quot;&gt;J. LoVetri, N. R. S. Simons, and B. J. A. M. van Leersum, “Analysis of UWB Scattering from Dielectric Objects Buried in a Lossy Layered Ground using FDTD and TLM,” in &lt;i&gt;Proceedings PIERS 1998-Progress in Electromagnetics Research Symposium, 13-17 July, 1998, Cite des congres, Nantes, France, Volume I, 43&lt;/i&gt;, 1998. &lt;/span&gt;
+
+&lt;div id=&quot;lovetri1998analysis-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lovetri1998analysis-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;lovetri1998analysis-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lovetri1998analysis,
+  title = {Analysis of UWB Scattering from Dielectric Objects Buried in a Lossy Layered Ground using FDTD and TLM},
+  author = {LoVetri, J and Simons, NRS and van Leersum, BJAM},
+  booktitle = {Proceedings PIERS 1998-Progress in Electromagnetics Research Symposium, 13-17 July, 1998, Cite des congres, Nantes, France, Volume I, 43},
+  year = {1998}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;siushansian1995efficient&quot;&gt;R. Siushansian and J. LoVetri, “An efficient higher order numerical convolution for modelling Nth-order Lorentz dispersion,” in &lt;i&gt;Antennas and Propagation Society International Symposium, 1995. AP-S. Digest&lt;/i&gt;, 1995, vol. 1, pp. 632–635. &lt;/span&gt;
+
+&lt;div id=&quot;siushansian1995efficient-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#siushansian1995efficient-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;siushansian1995efficient-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{siushansian1995efficient,
+  title = {An efficient higher order numerical convolution for modelling Nth-order Lorentz dispersion},
+  author = {Siushansian, Riaz and LoVetri, Joe},
+  booktitle = {Antennas and Propagation Society International Symposium, 1995. AP-S. Digest},
+  volume = {1},
+  pages = {632--635},
+  year = {1995},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;lovetri1995review&quot;&gt;J. Lovetri, M. S. Wartak, and R. Siushansian, “A review of nonlinear electromagnetic propagation effects,” in &lt;i&gt;In AGARD, High Power Microwaves (HPM), Volume 1 9 p (SEE N96-13860 02-32)&lt;/i&gt;, 1995, vol. 1. &lt;/span&gt;
+
+&lt;div id=&quot;lovetri1995review-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lovetri1995review-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;lovetri1995review-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lovetri1995review,
+  title = {A review of nonlinear electromagnetic propagation effects},
+  author = {Lovetri, Joe and Wartak, Marek S and Siushansian, Riaz},
+  booktitle = {In AGARD, High Power Microwaves (HPM), Volume 1 9 p (SEE N96-13860 02-32)},
+  volume = {1},
+  year = {1995}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;lovetri1996explicit&quot;&gt;J. LoVetri and T. Lapohos, “Explicit upwind difference schemes for lossy multiconductor transmission lines,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics, 1996. ANTEM 1996. Symposium on&lt;/i&gt;, 1996, pp. 291–294. &lt;/span&gt;
+
+&lt;div id=&quot;lovetri1996explicit-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lovetri1996explicit-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;lovetri1996explicit-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lovetri1996explicit,
+  title = {Explicit upwind difference schemes for lossy multiconductor transmission lines},
+  author = {LoVetri, Joe and Lapohos, Tibor},
+  booktitle = {Antenna Technology and Applied Electromagnetics, 1996. ANTEM 1996. Symposium on},
+  pages = {291--294},
+  year = {1996},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;cule1996investigation&quot;&gt;D. Cule, N. R. S. Simons, G. E. Bridges, M. Cuhaci, and J. LoVetri, “Investigation of geometrically small features within numerical solutions to electromagnetic field problems,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics, 1996. ANTEM 1996. Symposium on&lt;/i&gt;, 1996, pp. 223–226. &lt;/span&gt;
+
+&lt;div id=&quot;cule1996investigation-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#cule1996investigation-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;cule1996investigation-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{cule1996investigation,
+  title = {Investigation of geometrically small features within numerical solutions to electromagnetic field problems},
+  author = {Cule, D and Simons, NRS and Bridges, GE and Cuhaci, M and LoVetri, J},
+  booktitle = {Antenna Technology and Applied Electromagnetics, 1996. ANTEM 1996. Symposium on},
+  pages = {223--226},
+  year = {1996},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;siushansian1996modelling&quot;&gt;R. Siushansian and J. LoVetri, “On the modelling of skin effect for multiconductor transmission lines using FDTD scheme,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics, 1996. ANTEM 1996. Symposium on&lt;/i&gt;, 1996, pp. 227–230. &lt;/span&gt;
+
+&lt;div id=&quot;siushansian1996modelling-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#siushansian1996modelling-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;siushansian1996modelling-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{siushansian1996modelling,
+  title = {On the modelling of skin effect for multiconductor transmission lines using FDTD scheme},
+  author = {Siushansian, Riaz and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics, 1996. ANTEM 1996. Symposium on},
+  pages = {227--230},
+  year = {1996},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;&lt;/ul&gt;
+&lt;h3 id=&quot;pre-1995&quot;&gt;Pre 1995&lt;/h3&gt;
+&lt;ul class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;lovetri1993random&quot;&gt;J. LoVetri and N. R. S. Simons, “Random update TLM method,” in &lt;i&gt;Antennas and Propagation Society International Symposium, 1993. AP-S. Digest&lt;/i&gt;, 1993, pp. 22–25. &lt;/span&gt;
+
+&lt;div id=&quot;lovetri1993random-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lovetri1993random-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;lovetri1993random-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lovetri1993random,
+  title = {Random update TLM method},
+  author = {LoVetri, J and Simons, NRS},
+  booktitle = {Antennas and Propagation Society International Symposium, 1993. AP-S. Digest},
+  pages = {22--25},
+  year = {1993},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;davidson1994review&quot;&gt;A. M. Davidson and J. LoVetri, “A review of irregular conformal meshes in FDTD,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics [ANTEM 1994] Symposium on&lt;/i&gt;, 1994, pp. 353–356. &lt;/span&gt;
+
+&lt;div id=&quot;davidson1994review-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#davidson1994review-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;davidson1994review-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{davidson1994review,
+  title = {A review of irregular conformal meshes in FDTD},
+  author = {Davidson, Anthony M and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics [ANTEM 1994] Symposium on},
+  pages = {353--356},
+  year = {1994},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;vetri1992fuzzy&quot;&gt;J. L. Vetri and W. H. Henneker, “Fuzzy logic implementation of an electromagnetic interactions modelling tool,” in &lt;i&gt;Electromagnetic Compatibility, 1992. Symposium Record., IEEE 1992 International Symposium on&lt;/i&gt;, 1992, pp. 127–130. &lt;/span&gt;
+
+&lt;div id=&quot;vetri1992fuzzy-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#vetri1992fuzzy-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;vetri1992fuzzy-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{vetri1992fuzzy,
+  title = {Fuzzy logic implementation of an electromagnetic interactions modelling tool},
+  author = {Vetri, J Lo and Henneker, WH},
+  booktitle = {Electromagnetic Compatibility, 1992. Symposium Record., IEEE 1992 International Symposium on},
+  pages = {127--130},
+  year = {1992},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;primak1994modal&quot;&gt;S. L. Primak and J. L. Vetri, “Modal estimates to describe the topological attributes of multidimensional systems,” in &lt;i&gt;Electromagnetic Compatibility, 1994. Symposium Record. Compatibility in the Loop., IEEE International Symposium on&lt;/i&gt;, 1994, pp. 89–94. &lt;/span&gt;
+
+&lt;div id=&quot;primak1994modal-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#primak1994modal-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;primak1994modal-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{primak1994modal,
+  title = {Modal estimates to describe the topological attributes of multidimensional systems},
+  author = {Primak, Sergey L and Vetri, J Lo},
+  booktitle = {Electromagnetic Compatibility, 1994. Symposium Record. Compatibility in the Loop., IEEE International Symposium on},
+  pages = {89--94},
+  year = {1994},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;lovetri1992derivation&quot;&gt;J. LoVetri and N. R. S. Simons, “Derivation of TLM type methods from characteristic field decompositions,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics, 1992. ANTEM. Symposium on&lt;/i&gt;, 1992, pp. 185–190. &lt;/span&gt;
+
+&lt;div id=&quot;lovetri1992derivation-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lovetri1992derivation-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;lovetri1992derivation-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lovetri1992derivation,
+  title = {Derivation of TLM type methods from characteristic field decompositions},
+  author = {LoVetri, Joe and Simons, Neil RS},
+  booktitle = {Antenna Technology and Applied Electromagnetics, 1992. ANTEM. Symposium on},
+  pages = {185--190},
+  year = {1992},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;rizvi1994esd&quot;&gt;M. Rizvi and J. L. Vetri, “ESD source modeling in FDTD,” in &lt;i&gt;Electromagnetic Compatibility, 1994. Symposium Record. Compatibility in the Loop., IEEE International Symposium on&lt;/i&gt;, 1994, pp. 77–82. &lt;/span&gt;
+
+&lt;div id=&quot;rizvi1994esd-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#rizvi1994esd-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;rizvi1994esd-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{rizvi1994esd,
+  title = {ESD source modeling in FDTD},
+  author = {Rizvi, Mubashir and Vetri, J Lo},
+  booktitle = {Electromagnetic Compatibility, 1994. Symposium Record. Compatibility in the Loop., IEEE International Symposium on},
+  pages = {77--82},
+  year = {1994},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;lovetri1989hardsys&quot;&gt;J. LoVetri, S. Abu-Hakima, A. S. Podgorski, and G. I. Costache, “HardSys-applying expert system techniques to electromagnetic hardening,” in &lt;i&gt;Electromagnetic Compatibility, 1989., IEEE 1989 National Symposium on&lt;/i&gt;, 1989, pp. 383–385. &lt;/span&gt;
+
+&lt;div id=&quot;lovetri1989hardsys-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lovetri1989hardsys-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;lovetri1989hardsys-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lovetri1989hardsys,
+  title = {HardSys-applying expert system techniques to electromagnetic hardening},
+  author = {LoVetri, Joe and Abu-Hakima, Suhayya and Podgorski, Andrew S and Costache, George I},
+  booktitle = {Electromagnetic Compatibility, 1989., IEEE 1989 National Symposium on},
+  pages = {383--385},
+  year = {1989},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;lovetri1990time&quot;&gt;J. LoVetri and G. I. Costache, “Time domain finite element analysis of 2-D shields,” in &lt;i&gt;Antennas and Propagation Society International Symposium, 1990. AP-S. Merging Technologies for the 90’s. Digest.&lt;/i&gt;, 1990, pp. 18–21. &lt;/span&gt;
+
+&lt;div id=&quot;lovetri1990time-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lovetri1990time-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;lovetri1990time-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lovetri1990time,
+  title = {Time domain finite element analysis of 2-D shields},
+  author = {LoVetri, J and Costache, GI},
+  booktitle = {Antennas and Propagation Society International Symposium, 1990. AP-S. Merging Technologies for the 90's. Digest.},
+  pages = {18--21},
+  year = {1990},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;lovetri1991practical&quot;&gt;J. LoVetri and M. S. Wartak, “Practical comparison of finite difference time domain schemes,” in &lt;i&gt;Antennas and Propagation Society International Symposium, 1991. AP-S. Digest&lt;/i&gt;, 1991, pp. 418–421. &lt;/span&gt;
+
+&lt;div id=&quot;lovetri1991practical-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lovetri1991practical-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;lovetri1991practical-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lovetri1991practical,
+  title = {Practical comparison of finite difference time domain schemes},
+  author = {LoVetri, J and Wartak, MS},
+  booktitle = {Antennas and Propagation Society International Symposium, 1991. AP-S. Digest},
+  pages = {418--421},
+  year = {1991},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;RC08&quot;&gt;J. LoVetri and G. I. Costache, “Efficiency issues in the implementation of finite difference time domain codes,” in &lt;i&gt;Antennas and Propagation Society International Symposium, 1991. AP-S. Digest&lt;/i&gt;, 1991, pp. 1746–1749. &lt;/span&gt;
+
+&lt;div id=&quot;RC08-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a href=&quot;/Publication PDFs/Conference Papers/RC08.pdf&quot;&gt;&lt;b&gt;RC08&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC08-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;RC08-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{RC08,
+  title = {Efficiency issues in the implementation of finite difference time domain codes},
+  author = {LoVetri, J and Costache, GI},
+  booktitle = {Antennas and Propagation Society International Symposium, 1991. AP-S. Digest},
+  pages = {1746--1749},
+  year = {1991},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;lovetri1992electric&quot;&gt;J. LoVetri and E. J. Weckman, “ELECTRIC SPACE CHARGES AND EXPLOSION HAZARDS IN AVIATION FUEL SYSTEMS/./. Inculet Department of Electrical Engineering The University of Western Ontario,” in &lt;i&gt;Proceedings of the 1992 International Aerospace and Ground Conference on Lightning and Static Electricity: October 6-8, 1992, Trump Taj Mahal, Atlantic City, NJ.&lt;/i&gt;, 1992, p. 14. &lt;/span&gt;
+
+&lt;div id=&quot;lovetri1992electric-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lovetri1992electric-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;lovetri1992electric-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lovetri1992electric,
+  title = {ELECTRIC SPACE CHARGES AND EXPLOSION HAZARDS IN AVIATION FUEL SYSTEMS/./. Inculet Department of Electrical Engineering The University of Western Ontario},
+  author = {LoVetri, J and Weckman, EJ},
+  booktitle = {Proceedings of the 1992 International Aerospace and Ground Conference on Lightning and Static Electricity: October 6-8, 1992, Trump Taj Mahal, Atlantic City, NJ.},
+  pages = {14},
+  year = {1992},
+  organization = {US Department of Transportation, Federal Aviation Administration}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;kekez198960&quot;&gt;M. M. Kekez, J. LoVetri, A. S. Podgorski, J. G. Dunn, and G. Gibson, “A 60 joule, 600kv, 1ns rise-time marx system,” in &lt;i&gt;Pulsed Power Conference, 1989. 7th&lt;/i&gt;, 1989, pp. 123–127. &lt;/span&gt;
+
+&lt;div id=&quot;kekez198960-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#kekez198960-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;kekez198960-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{kekez198960,
+  title = {A 60 joule, 600kv, 1ns rise-time marx system},
+  author = {Kekez, MM and LoVetri, J and Podgorski, AS and Dunn, JG and Gibson, G},
+  booktitle = {Pulsed Power Conference, 1989. 7th},
+  pages = {123--127},
+  year = {1989},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;kekez1989k1a&quot;&gt;M. M. Kekez, J. LoVetri, A. S. Podgorski, J. G. Dunn, and G. Gibson, “K1A 0R8,” in &lt;i&gt;Digest of technical papers: Seventh IEEE Pulsed Power Conference, the Monterey Conference Center, Monterey, California, June 11-14, 1989&lt;/i&gt;, 1989, p. 123. &lt;/span&gt;
+
+&lt;div id=&quot;kekez1989k1a-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#kekez1989k1a-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;kekez1989k1a-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{kekez1989k1a,
+  title = {K1A 0R8},
+  author = {Kekez, MM and LoVetri, J and Podgorski, AS and Dunn, JG and Gibson, G},
+  booktitle = {Digest of technical papers: Seventh IEEE Pulsed Power Conference, the Monterey Conference Center, Monterey, California, June 11-14, 1989},
+  pages = {123},
+  year = {1989},
+  organization = {Institute of Electrical and Electronics Engineers}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;vetri1990evaluation&quot;&gt;J. L. Vetri and A. S. Podgorski, “Evaluation of HardSys: A simple EMI expert system,” in &lt;i&gt;Electromagnetic Compatibility, 1990. Symposium Record., 1990 IEEE International Symposium on&lt;/i&gt;, 1990, pp. 228–232. &lt;/span&gt;
+
+&lt;div id=&quot;vetri1990evaluation-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#vetri1990evaluation-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;vetri1990evaluation-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{vetri1990evaluation,
+  title = {Evaluation of HardSys: A simple EMI expert system},
+  author = {Vetri, J Lo and Podgorski, Andrew S},
+  booktitle = {Electromagnetic Compatibility, 1990. Symposium Record., 1990 IEEE International Symposium on},
+  pages = {228--232},
+  year = {1990},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;CP1&quot;&gt;J. LoVetri and M. Hamid, “Three Dimensional Temperature Gradients by the Inverse Black Body Radiation
+Method,” in &lt;i&gt;Proceedings of 19th Annual Int. Microwave Power Institute Symposium, Minneapolis, Minnesota, Sept. 17-19&lt;/i&gt;, 1984, pp. 150–151. &lt;/span&gt;
+
+&lt;div id=&quot;CP1-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#CP1-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;CP1-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{CP1,
+  title = {Three Dimensional Temperature Gradients by the Inverse Black Body Radiation
+  Method},
+  author = {LoVetri, J and Hamid, M},
+  booktitle = {Proceedings of 19th Annual Int. Microwave Power Institute Symposium, Minneapolis, Minnesota, Sept. 17-19},
+  pages = {150--151},
+  year = {1984},
+  organization = {International Microwave Power Institute}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;&lt;/ul&gt;</content><summary type="html">2017
+
+2016
+N. Abdollahi, I. Jeffrey, and J. LoVetri, “Green’s theorem based eigenfunction formulations for PEC-enclosed electromagnetic imaging,” in Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on, 2016, pp. 1–2. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{abdollahi2016green,
+  title = {Green's theorem based eigenfunction formulations for PEC-enclosed electromagnetic imaging},
+  author = {Abdollahi, Nasim and Jeffrey, Ian and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on},
+  pages = {1--2},
+  year = {2016},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+I. Jeffrey and J. LoVetri, “Discontinuous Galerkin Gauss-Newton Inversion for electromagnetic imaging,” in Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on, 2016, pp. 1–2. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{jeffrey2016discontinuous,
+  title = {Discontinuous Galerkin Gauss-Newton Inversion for electromagnetic imaging},
+  author = {Jeffrey, Ian and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on},
+  pages = {1--2},
+  year = {2016},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+D. Kurrant, E. Fear, A. Baran, and J. LoVetri, “Evaluating impact of errors in prior information on performance of microwave tomography,” in Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on, 2016, pp. 1–4. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{kurrant2016evaluating,
+  title = {Evaluating impact of errors in prior information on performance of microwave tomography},
+  author = {Kurrant, Douglas and Fear, Elise and Baran, Anastasia and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on},
+  pages = {1--4},
+  year = {2016},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+K. Nemez, M. Asefi, A. Baran, and J. LoVetri, “A faceted magnetic field probe resonant chamber for 3D breast MWI: A synthetic study,” in Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on, 2016, pp. 1–3. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{nemez2016faceted,
+  title = {A faceted magnetic field probe resonant chamber for 3D breast MWI: A synthetic study},
+  author = {Nemez, Kyle and Asefi, Mohammad and Baran, Anastasia and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on},
+  pages = {1--3},
+  year = {2016},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+P. Mojabi, N. Firoozy, N. Bayat, T. Brown, C. Narendra, P. Mojabi, C. Niu, T. Tiede, T. Neusitzer, X. Li, and others, “Electromagnetic inversion for biomedical imaging, antenna characterization, and sea ice remote sensing applications,” in URSI Asia-Pacific Radio Science Conference (URSI AP-RASC), 2016, pp. 586–589. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{mojabi2016electromagnetic,
+  title = {Electromagnetic inversion for biomedical imaging, antenna characterization, and sea ice remote sensing applications},
+  author = {Mojabi, Puyan and Firoozy, Nariman and Bayat, Nozhan and Brown, Trevor and Narendra, Chaitanya and Mojabi, Pedram and Niu, Chen and Tiede, Tyler and Neusitzer, Thomas and Li, Xiang and others},
+  booktitle = {URSI Asia-Pacific Radio Science Conference (URSI AP-RASC)},
+  pages = {586--589},
+  year = {2016},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. LoVetri, M. Asefi, A. Baran, and K. Nemez, “Effects of data collection schemes and systems on the imaging performance of electromagnetic inverse problems,” in Progress in Electromagnetic Research Symposium (PIERS), 2016, pp. 937–937. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{lovetri2016effects,
+  title = {Effects of data collection schemes and systems on the imaging performance of electromagnetic inverse problems},
+  author = {LoVetri, J and Asefi, M and Baran, A and Nemez, K},
+  booktitle = {Progress in Electromagnetic Research Symposium (PIERS)},
+  pages = {937--937},
+  year = {2016},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+2015
+A. Baran, D. Kurrant, E. Fear, and J. LoVetri, “Immersion medium independent algorithm for breast microwave imaging,” in Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI, 2015, pp. 303–303. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{baran2015immersion,
+  title = {Immersion medium independent algorithm for breast microwave imaging},
+  author = {Baran, Anastasia and Kurrant, Doug and Fear, Elise and LoVetri, Joe},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI},
+  pages = {303--303},
+  year = {2015},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+C. Kaye, I. Jeffrey, and J. LoVetri, “Magnetic contrast-enhanced microwave biomedical imaging using discontinuous Galerkin contrast source inversion,” in Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI, 2015, pp. 305–305. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{kaye2015magnetic,
+  title = {Magnetic contrast-enhanced microwave biomedical imaging using discontinuous Galerkin contrast source inversion},
+  author = {Kaye, Cameron and Jeffrey, Ian and LoVetri, Joe},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI},
+  pages = {305--305},
+  year = {2015},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+M. Asefi, A. Baran, J. LoVetri, and A. Zakaria, “A water-based 3-D breast imaging system: Modelling and use of prior information,” in Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI, 2015, pp. 304–304. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{asefi2015water,
+  title = {A water-based 3-D breast imaging system: Modelling and use of prior information},
+  author = {Asefi, Mohammad and Baran, Anastasia and LoVetri, Joe and Zakaria, Amer},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI},
+  pages = {304--304},
+  year = {2015},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+I. Jeffrey and J. LoVetri, “High-order contrast source inversion of dielectric targets using a Discontinuous Galerkin discretization of the vector wave equation,” in Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO), 2015 IEEE MTT-S International Conference on, 2015, pp. 1–3. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{jeffrey2015high,
+  title = {High-order contrast source inversion of dielectric targets using a Discontinuous Galerkin discretization of the vector wave equation},
+  author = {Jeffrey, Ian and LoVetri, Joe},
+  booktitle = {Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO), 2015 IEEE MTT-S International Conference on},
+  pages = {1--3},
+  year = {2015},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+D. Kurrant, A. Baran, E. Fear, and J. LoVetri, “Iterative refinement of fibroglandular region with microwave breast imaging,” in Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO), 2015 IEEE MTT-S International Conference on, 2015, pp. 1–3. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{kurrant2015iterative,
+  title = {Iterative refinement of fibroglandular region with microwave breast imaging},
+  author = {Kurrant, Douglas and Baran, Anastasia and Fear, Elise and LoVetri, Joe},
+  booktitle = {Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO), 2015 IEEE MTT-S International Conference on},
+  pages = {1--3},
+  year = {2015},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+P. Mojabi and J. LoVetri, “Tissue-type imaging using ultrasound tomography,” in Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO), 2015 IEEE MTT-S International Conference on, 2015, pp. 1–3. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{mojabi2015tissue,
+  title = {Tissue-type imaging using ultrasound tomography},
+  author = {Mojabi, Pedram and LoVetri, Joe},
+  booktitle = {Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO), 2015 IEEE MTT-S International Conference on},
+  pages = {1--3},
+  year = {2015},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+M. Asefi, J. LoVetri, I. Jeffrey, M. Ostadrahimi, A. Zakaria, C. Gilmore, and P. Card, “Stored grain spoilage monitoring via 3D electromagnetic imaging,” in Antennas and Propagation (EuCAP), 2015 9th European Conference on, 2015, pp. 1–2. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{asefi2015stored,
+  title = {Stored grain spoilage monitoring via 3D electromagnetic imaging},
+  author = {Asefi, Mohammad and LoVetri, Joe and Jeffrey, Ian and Ostadrahimi, Majid and Zakaria, Amer and Gilmore, Colin and Card, Paul},
+  booktitle = {Antennas and Propagation (EuCAP), 2015 9th European Conference on},
+  pages = {1--2},
+  year = {2015},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+A. Baran, D. Kurrant, E. Fear, and J. LoVetri, “Monitoring breast cancer treatment progress with microwave tomography and radar-based tissue-regions estimation,” in Antennas and Propagation (EuCAP), 2015 9th European Conference on, 2015, pp. 1–2. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{baran2015monitoring,
+  title = {Monitoring breast cancer treatment progress with microwave tomography and radar-based tissue-regions estimation},
+  author = {Baran, Anastasia and Kurrant, Douglas and Fear, Elise and LoVetri, Joe},
+  booktitle = {Antennas and Propagation (EuCAP), 2015 9th European Conference on},
+  pages = {1--2},
+  year = {2015},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+D. Kurrant, A. Baran, E. Fear, and J. LoVetri, “Tumor tracking with microwave breast imaging using refined patient specific prior information,” in Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI, 2015, pp. 299–299. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{kurrant2015tumor,
+  title = {Tumor tracking with microwave breast imaging using refined patient specific prior information},
+  author = {Kurrant, Douglas and Baran, Anastasia and Fear, Elise and LoVetri, Joe},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI},
+  pages = {299--299},
+  year = {2015},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+M. Ostadrahimi, A. Baran, M. Asefi, C. Kaye, K. Nemez, J. LoVetri, and S. Pistorius, “On the development of a clinical full-vectorial 3D microwave breast imaging system,” in Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI, 2015, pp. 300–300. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{ostadrahimi2015development,
+  title = {On the development of a clinical full-vectorial 3D microwave breast imaging system},
+  author = {Ostadrahimi, Majid and Baran, Anastasia and Asefi, Mohammad and Kaye, Cameron and Nemez, Kyle and LoVetri, Joe and Pistorius, Stephen},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2015 USNC-URSI},
+  pages = {300--300},
+  year = {2015},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+P. Mojabi, N. Bayat, M. Ostadrahimi, A. Zakaria, and J. LoVetri, “On the achievable resolution from microwave tomography,” in Radio Science Conference (URSI AT-RASC), 2015 1st URSI Atlantic, 2015, pp. 1–1. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{mojabi2015achievable,
+  title = {On the achievable resolution from microwave tomography},
+  author = {Mojabi, Puyan and Bayat, Nozhan and Ostadrahimi, Majid and Zakaria, Amer and LoVetri, Joe},
+  booktitle = {Radio Science Conference (URSI AT-RASC), 2015 1st URSI Atlantic},
+  pages = {1--1},
+  year = {2015},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+2014
+I. Jeffrey, A. Zakaria, and J. LoVetri, “Discontinuous-Galerkin microwave imaging,” in Antenna Technology and Applied Electromagnetics (ANTEM), 2014 16th International Symposium on, 2014, pp. 1–2. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{jeffrey2014discontinuous,
+  title = {Discontinuous-Galerkin microwave imaging},
+  author = {Jeffrey, Ian and Zakaria, Amer and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics (ANTEM), 2014 16th International Symposium on},
+  pages = {1--2},
+  year = {2014},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+P. Mojabi and J. LoVetri, “Use of Wirtinger calculus in Gauss-Newton inversion of microwave tomography data,” in General Assembly and Scientific Symposium (URSI GASS), 2014 XXXIth URSI, 2014, pp. 1–4. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{mojabi2014use,
+  title = {Use of Wirtinger calculus in Gauss-Newton inversion of microwave tomography data},
+  author = {Mojabi, Puyan and LoVetri, Joe},
+  booktitle = {General Assembly and Scientific Symposium (URSI GASS), 2014 XXXIth URSI},
+  pages = {1--4},
+  year = {2014},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. LoVetri, P. Mojabi, A. Zakaria, M. Ostadrahimi, and I. Jeffrey, “System and formulation options for biomedical microwave imaging,” in General Assembly and Scientific Symposium (URSI GASS), 2014 XXXIth URSI, 2014, pp. 1–4. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{lovetri2014system,
+  title = {System and formulation options for biomedical microwave imaging},
+  author = {LoVetri, Joe and Mojabi, Puyan and Zakaria, Amer and Ostadrahimi, Majid and Jeffrey, Ian},
+  booktitle = {General Assembly and Scientific Symposium (URSI GASS), 2014 XXXIth URSI},
+  pages = {1--4},
+  year = {2014},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+I. Jeffrey, A. Zakaria, and J. LoVetri, “Microwave imaging by mixed-order discontinuous Galerkin contrast source inversion,” in General Assembly and Scientific Symposium (URSI GASS), 2014 XXXIth URSI, 2014, pp. 1–4. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{jeffrey2014microwave,
+  title = {Microwave imaging by mixed-order discontinuous Galerkin contrast source inversion},
+  author = {Jeffrey, Ian and Zakaria, Amer and LoVetri, Joe},
+  booktitle = {General Assembly and Scientific Symposium (URSI GASS), 2014 XXXIth URSI},
+  pages = {1--4},
+  year = {2014},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+M. OstadRahimi, K. Nemez, A. Zakaria, J. LoVetri, L. Shafai, and S. Pistorius, “A novel microwave tomography system for breast imaging based on the modulated scattering technique,” in Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI, 2014, pp. 54–54. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{ostadrahimi2014novel,
+  title = {A novel microwave tomography system for breast imaging based on the modulated scattering technique},
+  author = {OstadRahimi, Majid and Nemez, Kyle and Zakaria, Amer and LoVetri, Joe and Shafai, Lotfollah and Pistorius, Stephen},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI},
+  pages = {54--54},
+  year = {2014},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+M. Asefi, I. Jeffrey, J. LoVetri, M. Ostadrahimi, A. Zakaria, C. Gilmore, P. Card, and J. Paliwal, “Grain bin monitoring via microwave imaging,” in Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI, 2014, pp. 8–8. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{asefi2014grain,
+  title = {Grain bin monitoring via microwave imaging},
+  author = {Asefi, Mohammad and Jeffrey, Ian and LoVetri, Joe and Ostadrahimi, Majid and Zakaria, Amer and Gilmore, Colin and Card, Paul and Paliwal, Jitendra},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI},
+  pages = {8--8},
+  year = {2014},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+A. Zakaria, M. Asefi, M. Ostadrahimi, I. Jeffrey, and J. LoVetri, “Electromagnetic imaging inside metallic enclosures using the normal boundary field components,” in Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI, 2014, pp. 253–253. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{zakaria2014electromagnetic,
+  title = {Electromagnetic imaging inside metallic enclosures using the normal boundary field components},
+  author = {Zakaria, Amer and Asefi, Mohammad and Ostadrahimi, Majid and Jeffrey, Ian and LoVetri, Joe},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI},
+  pages = {253--253},
+  year = {2014},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+I. Jeffrey, A. Zakaria, A. Baran, and J. LoVetri, “Simultaneous high-order contrast source inversion of dielectric and magnetic targets,” in Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI, 2014, pp. 74–74. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{jeffrey2014simultaneous,
+  title = {Simultaneous high-order contrast source inversion of dielectric and magnetic targets},
+  author = {Jeffrey, Ian and Zakaria, Amer and Baran, Anastasia and LoVetri, Joe},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI},
+  pages = {74--74},
+  year = {2014},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+P. Mojabi and J. LoVetri, “Microwave and ultrasound imaging for biomedical tissue identification,” in Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI, 2014, pp. 56–56. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{mojabi2014microwave,
+  title = {Microwave and ultrasound imaging for biomedical tissue identification},
+  author = {Mojabi, Pedram and LoVetri, Joe},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI},
+  pages = {56--56},
+  year = {2014},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+C. Kaye, J. LoVetri, A. Zakaria, and A. Baran, “A study of contrast-enhanced functional microwave imaging,” in Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI, 2014, pp. 254–254. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{kaye2014study,
+  title = {A study of contrast-enhanced functional microwave imaging},
+  author = {Kaye, Cameron and LoVetri, Joe and Zakaria, Amer and Baran, Anastasia},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI},
+  pages = {254--254},
+  year = {2014},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+A. Baran, D. Kurrant, A. Zakaria, E. Fear, and J. LoVetri, “Breast cancer imaging using microwave tomography with radar-derived prior information,” in Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI, 2014, pp. 259–259. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{baran2014breast,
+  title = {Breast cancer imaging using microwave tomography with radar-derived prior information},
+  author = {Baran, Anastasia and Kurrant, Doug and Zakaria, Amer and Fear, Elise and LoVetri, Joe},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI},
+  pages = {259--259},
+  year = {2014},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+2013
+I. Jeffrey, J. LoVetri, A. Zakaria, M. Ostadrahimi, M. Asefi, C. Gilmore, P. Card, and J. Paliwal, “Grain bin storage monitoring via microwave imaging,” in Radio Science Meeting (Joint with AP-S Symposium), 2013 USNC-URSI, 2013, pp. 209–209. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{jeffrey2013grain,
+  title = {Grain bin storage monitoring via microwave imaging},
+  author = {Jeffrey, Ian and LoVetri, Joe and Zakaria, Amer and Ostadrahimi, Majid and Asefi, Mohammad and Gilmore, Colin and Card, Paul and Paliwal, Jitendra},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2013 USNC-URSI},
+  pages = {209--209},
+  year = {2013},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+I. Jeffrey and J. LoVetri, “Field and contrast eigenfunction expansions and their application to microwave imaging algorithms,” in Radio Science Meeting (Joint with AP-S Symposium), 2013 USNC-URSI, 2013, pp. 38–38. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{jeffrey2013field,
+  title = {Field and contrast eigenfunction expansions and their application to microwave imaging algorithms},
+  author = {Jeffrey, Ian and LoVetri, Joe},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2013 USNC-URSI},
+  pages = {38--38},
+  year = {2013},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+M. Asefi, M. Ostadrahimi, J. LoVetri, and L. Shafai, “Analysis of a 3D microwave imaging system,” in Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE, 2013, pp. 608–609. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{asefi2013analysis,
+  title = {Analysis of a 3D microwave imaging system},
+  author = {Asefi, Mohammad and Ostadrahimi, Majid and LoVetri, Joe and Shafai, Lotfollah},
+  booktitle = {Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE},
+  pages = {608--609},
+  year = {2013},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+A. Zakaria, I. Jeffrey, M. Ostadrahimi, M. Asefi, and J. LoVetri, “A novel 3d near-field microwave imaging system,” in Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE, 2013, pp. 816–817. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{zakaria2013novel,
+  title = {A novel 3d near-field microwave imaging system},
+  author = {Zakaria, Amer and Jeffrey, Ian and Ostadrahimi, Majid and Asefi, Mohammad and LoVetri, Joe},
+  booktitle = {Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE},
+  pages = {816--817},
+  year = {2013},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+M. Ostadrahimi, M. Asefi, J. LoVetri, G. E. Bridges, and L. Shafai, “An MST-based microwave tomography system using homodyne receiver,” in Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE, 2013, pp. 814–815. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{ostadrahimi2013mst,
+  title = {An MST-based microwave tomography system using homodyne receiver},
+  author = {Ostadrahimi, Majid and Asefi, Mohammad and LoVetri, Joe and Bridges, Greg E and Shafai, Lotfollah},
+  booktitle = {Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE},
+  pages = {814--815},
+  year = {2013},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+A. Baran, C. Kaye, A. Zakaria, and J. LoVetri, “Investigation of tumour detection using contrast agents and FEM-CSI in biomedical microwave tomography,” in Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE, 2013, pp. 540–541. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{baran2013investigation,
+  title = {Investigation of tumour detection using contrast agents and FEM-CSI in biomedical microwave tomography},
+  author = {Baran, Anastasia and Kaye, Cameron and Zakaria, Amer and LoVetri, Joe},
+  booktitle = {Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE},
+  pages = {540--541},
+  year = {2013},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+C. Kaye, J. LoVetri, A. Zakaria, and A. Baran, “Exploration of novel contrast agents for functional imaging using microwave tomography,” in Radio Science Meeting (Joint with AP-S Symposium), 2013 USNC-URSI, 2013, pp. 31–31. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{kaye2013exploration,
+  title = {Exploration of novel contrast agents for functional imaging using microwave tomography},
+  author = {Kaye, Cameron and LoVetri, Joe and Zakaria, Amer and Baran, Anastasia},
+  booktitle = {Radio Science Meeting (Joint with AP-S Symposium), 2013 USNC-URSI},
+  pages = {31--31},
+  year = {2013},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+M. Asefi, M. Ostadrahimi, J. LoVetri, and L. Shafai, “226.4: ANALYSIS OF A 3D MICROWAVE IMAGING SYSTEM,” in INTERNATIONAL SYMPOSIUM DIGEST ANTENNAS AND PROPAGATION, 2013, vol. 1, no. 1, pp. 608–608. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{asefi2013226,
+  title = {226.4: ANALYSIS OF A 3D MICROWAVE IMAGING SYSTEM},
+  author = {Asefi, M and Ostadrahimi, M and LoVetri, J and Shafai, L},
+  booktitle = {INTERNATIONAL SYMPOSIUM DIGEST ANTENNAS AND PROPAGATION},
+  volume = {1},
+  number = {1},
+  pages = {608--608},
+  year = {2013},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+A. Baran, C. Kaye, A. Zakaria, and J. LoVetri, “213.9: INVESTIGATION OF TUMOUR DETECTION USING CONTRAST AGENTS AND FEM-CSI IN BIOMEDICAL MICROWAVE TOMOGRAPHY,” in INTERNATIONAL SYMPOSIUM DIGEST ANTENNAS AND PROPAGATION, 2013, vol. 1, no. 1, pp. 540–540. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{baran2013213,
+  title = {213.9: INVESTIGATION OF TUMOUR DETECTION USING CONTRAST AGENTS AND FEM-CSI IN BIOMEDICAL MICROWAVE TOMOGRAPHY},
+  author = {Baran, A and Kaye, C and Zakaria, A and LoVetri, J},
+  booktitle = {INTERNATIONAL SYMPOSIUM DIGEST ANTENNAS AND PROPAGATION},
+  volume = {1},
+  number = {1},
+  pages = {540--540},
+  year = {2013},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+M. Ostadrahimi, M. Asefi, J. LoVetri, G. Bridges, and L. Shafai, “313.5: AN MST-BASED MICROWAVE TOMOGRAPHY SYSTEM USING HOMODYNE RECEIVER,” in INTERNATIONAL SYMPOSIUM DIGEST ANTENNAS AND PROPAGATION, 2013, vol. 1, no. 2, pp. 814–814. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{ostadrahimi2013313,
+  title = {313.5: AN MST-BASED MICROWAVE TOMOGRAPHY SYSTEM USING HOMODYNE RECEIVER},
+  author = {Ostadrahimi, M and Asefi, M and LoVetri, J and Bridges, G and Shafai, L},
+  booktitle = {INTERNATIONAL SYMPOSIUM DIGEST ANTENNAS AND PROPAGATION},
+  volume = {1},
+  number = {2},
+  pages = {814--814},
+  year = {2013},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+A. Zakaria, I. Jeffrey, M. Ostadrahimi, M. Asefi, and J. LoVetri, “313.6: A NOVEL 3D NEAR-FIELD MICROWAVE IMAGING SYSTEM,” in INTERNATIONAL SYMPOSIUM DIGEST ANTENNAS AND PROPAGATION, 2013, vol. 1, no. 2, pp. 816–816. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{zakaria2013313,
+  title = {313.6: A NOVEL 3D NEAR-FIELD MICROWAVE IMAGING SYSTEM},
+  author = {Zakaria, A and Jeffrey, I and Ostadrahimi, M and Asefi, M and LoVetri, J},
+  booktitle = {INTERNATIONAL SYMPOSIUM DIGEST ANTENNAS AND PROPAGATION},
+  volume = {1},
+  number = {2},
+  pages = {816--816},
+  year = {2013},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+2012
+P. Mojabi, M. Ostadrahimi, L. Shafai, and J. LoVetri, “Microwave tomography techniques and algorithms: A review,” in Antenna Technology and Applied Electromagnetics (ANTEM), 2012 15th International Symposium on, 2012, pp. 1–4. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{mojabi2012microwave,
+  title = {Microwave tomography techniques and algorithms: A review},
+  author = {Mojabi, Puyan and Ostadrahimi, Majid and Shafai, Lotfollah and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics (ANTEM), 2012 15th International Symposium on},
+  pages = {1--4},
+  year = {2012},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+I. Jeffrey, J. LoVetri, and C. Fumeaux, “A comparative study of volumetric vs. subcell modeling of thin-wire structures in FVTD,” in Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE, 2012, pp. 1–2. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{jeffrey2012comparative,
+  title = {A comparative study of volumetric vs. subcell modeling of thin-wire structures in FVTD},
+  author = {Jeffrey, Ian and LoVetri, Joe and Fumeaux, Christophe},
+  booktitle = {Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE},
+  pages = {1--2},
+  year = {2012},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+M. Ostadrahimi, A. Zakaria, P. Mojabi, J. LoVetri, and L. Shafai, “Evaluation of a microwave tomography system for animal tissue imaging,” in Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE, 2012, pp. 1–2. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{ostadrahimi2012evaluation,
+  title = {Evaluation of a microwave tomography system for animal tissue imaging},
+  author = {Ostadrahimi, Majid and Zakaria, Amer and Mojabi, Puyan and LoVetri, Joe and Shafai, Lotfollah},
+  booktitle = {Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE},
+  pages = {1--2},
+  year = {2012},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+A. Zakaria and J. LoVetri, “On the implementation of a three-dimensional finite-element contrast source inversion method,” in Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE, 2012, pp. 1–2. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{zakaria2012implementation,
+  title = {On the implementation of a three-dimensional finite-element contrast source inversion method},
+  author = {Zakaria, Amer and LoVetri, Joe},
+  booktitle = {Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE},
+  pages = {1--2},
+  year = {2012},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+M. Ostadrahimi, P. Mojabi, J. LoVetri, L. Shafai, and S. Noghanian, “Enhancement of near-field probing in a microwave tomography system,” in Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE, 2012, pp. 1–2. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{ostadrahimi2012enhancement,
+  title = {Enhancement of near-field probing in a microwave tomography system},
+  author = {Ostadrahimi, Majid and Mojabi, Puyan and LoVetri, Joe and Shafai, Lotfollah and Noghanian, Sima},
+  booktitle = {Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE},
+  pages = {1--2},
+  year = {2012},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+A. Zakaria, I. Jeffrey, and J. LoVetri, “A Three-Dimensional Finite-Element Contrast Source Inversion Method for Microwave Imaging Applications,” 2012. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{zakaria2012three,
+  title = {A Three-Dimensional Finite-Element Contrast Source Inversion Method for Microwave Imaging Applications},
+  author = {Zakaria, Amer and Jeffrey, Ian and LoVetri, Joe},
+  year = {2012},
+  organization = {AES}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+2011
+C. Gilmore, A. Abubakar, J. LoVetri, S. Pistorius, and P. M. van den Berg, “A deconvolutional technique for microwave data calibration,” in Antennas and Propagation (APSURSI), 2011 IEEE International Symposium on, 2011, pp. 2549–2552. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{gilmore2011deconvolutional,
+  title = {A deconvolutional technique for microwave data calibration},
+  author = {Gilmore, Colin and Abubakar, Aria and LoVetri, Joe and Pistorius, Stephen and van den Berg, Peter M},
+  booktitle = {Antennas and Propagation (APSURSI), 2011 IEEE International Symposium on},
+  pages = {2549--2552},
+  year = {2011},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+2010
+A. Kasem, C. Gilmore, J. LoVetri, S. Pistorius, and S. Sherif, “Fast simulation of all orders of multiple-scattered light in swept source optical coherence tomography,” in Photonics North 2010, 2010, pp. 77500B–77500B. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{kasem2010fast,
+  title = {Fast simulation of all orders of multiple-scattered light in swept source optical coherence tomography},
+  author = {Kasem, Aladin and Gilmore, Colin and LoVetri, Joe and Pistorius, Stephen and Sherif, Sherif},
+  booktitle = {Photonics North 2010},
+  pages = {77500B--77500B},
+  year = {2010},
+  organization = {International Society for Optics and Photonics}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+A. Zakaria and J. LoVetri, “A study of adaptive meshing in FEM-CSI for microwave tomography,” in Antenna Technology and Applied Electromagnetics &amp;amp; the American Electromagnetics Conference (ANTEM-AMEREM), 2010 14th International Symposium on, 2010, pp. 1–4. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{zakaria2010study,
+  title = {A study of adaptive meshing in FEM-CSI for microwave tomography},
+  author = {Zakaria, Amer and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics \&amp;amp; the American Electromagnetics Conference (ANTEM-AMEREM), 2010 14th International Symposium on},
+  pages = {1--4},
+  year = {2010},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+2009
+P. Mojabi, C. Gilmore, A. Zakaria, and J. LoVetri, “Biomedical microwave inversion in conducting cylinders of arbitrary shapes,” in Antenna Technology and Applied Electromagnetics and the Canadian Radio Science Meeting, 2009. ANTEM/URSI 2009. 13th International Symposium on, 2009, pp. 1–4. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{mojabi2009biomedical,
+  title = {Biomedical microwave inversion in conducting cylinders of arbitrary shapes},
+  author = {Mojabi, Puyan and Gilmore, Colin and Zakaria, Amer and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics and the Canadian Radio Science Meeting, 2009. ANTEM/URSI 2009. 13th International Symposium on},
+  pages = {1--4},
+  year = {2009},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+A. Zakaria, C. Kaye, I. Jeffrey, and J. LoVetri, “Experimental validation of thin-wire FVTD models,” in Antenna Technology and Applied Electromagnetics and the Canadian Radio Science Meeting, 2009. ANTEM/URSI 2009. 13th International Symposium on, 2009, pp. 1–4. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{zakaria2009experimental,
+  title = {Experimental validation of thin-wire FVTD models},
+  author = {Zakaria, Amer and Kaye, Cameron and Jeffrey, Ian and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics and the Canadian Radio Science Meeting, 2009. ANTEM/URSI 2009. 13th International Symposium on},
+  pages = {1--4},
+  year = {2009},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+C. Gilmore, P. Mojabi, A. Zakaria, M. Ostadrahimi, C. Kaye, S. Noghanian, L. Shafai, S. Pistorius, and J. LoVetri, “An ultra-wideband microwave tomography system: preliminary results,” in Engineering in Medicine and Biology Society, 2009. EMBC 2009. Annual International Conference of the IEEE, 2009, pp. 2288–2291. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{gilmore2009ultra,
+  title = {An ultra-wideband microwave tomography system: preliminary results},
+  author = {Gilmore, Colin and Mojabi, Puyan and Zakaria, Amer and Ostadrahimi, Majid and Kaye, Cam and Noghanian, Sima and Shafai, Lotfollah and Pistorius, Stephen and LoVetri, Joe},
+  booktitle = {Engineering in Medicine and Biology Society, 2009. EMBC 2009. Annual International Conference of the IEEE},
+  pages = {2288--2291},
+  year = {2009},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+2008
+
+2007
+
+2001 - 2006
+C. Gilmore and J. LoVetri, “On fourier imaging techniques for biomedical imaging,” in Antennas and Propagation Society International Symposium 2006, IEEE, 2006, pp. 279–282. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{gilmore2006fourier,
+  title = {On fourier imaging techniques for biomedical imaging},
+  author = {Gilmore, Colin and LoVetri, Joe},
+  booktitle = {Antennas and Propagation Society International Symposium 2006, IEEE},
+  pages = {279--282},
+  year = {2006},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+I. Jeffrey, V. I. Okhmatovski, and J. LoVetri, “A modified well-conditioned iterative solution to the 1D inverse scattering problem using the Born iterative method,” in Antennas and Propagation Society International Symposium 2006, IEEE, 2006, pp. 1387–1390. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{jeffrey2006modified,
+  title = {A modified well-conditioned iterative solution to the 1D inverse scattering problem using the Born iterative method},
+  author = {Jeffrey, Ian and Okhmatovski, Vladimir I and LoVetri, Joe},
+  booktitle = {Antennas and Propagation Society International Symposium 2006, IEEE},
+  pages = {1387--1390},
+  year = {2006},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+R. Siushansian, N. R. S. Simons, and J. LoVetri, “Evaluation of the FVTD technique for electromagnetic field problems containing highly inhomogeneous structures,” in Antenna Technology and Applied Electromagnetics and Canadian Radio Sciences Conference, 2006. ANTEM 2006. 12th International Symposium on, 2006, pp. 1–4. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{siushansian2006evaluation,
+  title = {Evaluation of the FVTD technique for electromagnetic field problems containing highly inhomogeneous structures},
+  author = {Siushansian, R and Simons, NRS and LoVetri, J},
+  booktitle = {Antenna Technology and Applied Electromagnetics and Canadian Radio Sciences Conference, 2006. ANTEM 2006. 12th International Symposium on},
+  pages = {1--4},
+  year = {2006},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+I. Jeffrey, J. LoVetri, and B. Kordi, “Hardware invariant protocol disruptive interference,” in Electromagnetic Compatibility, 2004. EMC 2004. 2004 InternationalSymposium on, 2004, vol. 2, pp. 703–707. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{jeffrey2004hardware,
+  title = {Hardware invariant protocol disruptive interference},
+  author = {Jeffrey, Ian and LoVetri, Joe and Kordi, Behzad},
+  booktitle = {Electromagnetic Compatibility, 2004. EMC 2004. 2004 InternationalSymposium on},
+  volume = {2},
+  pages = {703--707},
+  year = {2004},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+V. Okhmatovski and J. LoVetri, “A well-conditioned formulation of 1D inverse scattering problem under the Born approximation,” in Antenna Technology and Applied Electromagnetics [ANTEM 2005], 11th International Symposium on, 2005, pp. 1–4. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{okhmatovski2005well,
+  title = {A well-conditioned formulation of 1D inverse scattering problem under the Born approximation},
+  author = {Okhmatovski, Vladimir and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics [ANTEM 2005], 11th International Symposium on},
+  pages = {1--4},
+  year = {2005},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+B. Kordi, G. Bridges, J. LoVetri, and A. Foroozesh, “Time-domain analysis of lossy-substrate interconnects with frequency-dependent parameters,” in Antenna Technology and Applied Electromagnetics [ANTEM 2005], 11th International Symposium on, 2005, pp. 1–4. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{kordi2005time,
+  title = {Time-domain analysis of lossy-substrate interconnects with frequency-dependent parameters},
+  author = {Kordi, Behzad and Bridges, Greg and LoVetri, Joe and Foroozesh, Alireza},
+  booktitle = {Antenna Technology and Applied Electromagnetics [ANTEM 2005], 11th International Symposium on},
+  pages = {1--4},
+  year = {2005},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+B. Kordi, J. L. Vetri, G. Bridges, and I. Jeffrey, “Calibration methods for electric field probes and GTEM cells,” in Electromagnetic Compatibility, 2004. EMC 2004. 2004 InternationalSymposium on, 2004, vol. 3, pp. 908–912. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{kordi2004calibration,
+  title = {Calibration methods for electric field probes and GTEM cells},
+  author = {Kordi, Behzad and Vetri, J Lo and Bridges, Greg and Jeffrey, I},
+  booktitle = {Electromagnetic Compatibility, 2004. EMC 2004. 2004 InternationalSymposium on},
+  volume = {3},
+  pages = {908--912},
+  year = {2004},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+B. Kordi, J. LoVetri, and G. Bridges, “Integration of an FDTD analysis of lossy multiconductor transmission lines within a general-purpose circuit simulator,” in Antenna Technology and Applied Electromagnetics and URSI Conference, 2004. ANTEM 2004. 10th International Symposium on, 2004, pp. 1–4. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{kordi2004integration,
+  title = {Integration of an FDTD analysis of lossy multiconductor transmission lines within a general-purpose circuit simulator},
+  author = {Kordi, Behzad and LoVetri, Joe and Bridges, Greg},
+  booktitle = {Antenna Technology and Applied Electromagnetics and URSI Conference, 2004. ANTEM 2004. 10th International Symposium on},
+  pages = {1--4},
+  year = {2004},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+M. Phelan and J. LoVetri, “Polarimetric bistatic GPR imaging and detection of landmines in the near field with the ‘Vampire Effect,’” in Antenna Technology and Applied Electromagnetics and URSI Conference, 2004. ANTEM 2004. 10th International Symposium on, 2004, pp. 1–5. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{phelan2004polarimetric,
+  title = {Polarimetric bistatic GPR imaging and detection of landmines in the near field with the “Vampire Effect”},
+  author = {Phelan, Michael and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics and URSI Conference, 2004. ANTEM 2004. 10th International Symposium on},
+  pages = {1--5},
+  year = {2004},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+C. Gilmore, I. Jeffrey, V. I. Okhmatovski, and J. LoVetri, “A novel multi-frequency regularization method for the 2D inverse scattering problem under the born iterative method,” in Antenna Technology and Applied Electromagnetics and Canadian Radio Sciences Conference, 2006. ANTEM 2006. 12th International Symposium on, 2006, pp. 1–4. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{gilmore2006novel,
+  title = {A novel multi-frequency regularization method for the 2D inverse scattering problem under the born iterative method},
+  author = {Gilmore, C and Jeffrey, I and Okhmatovski, VI and LoVetri, J},
+  booktitle = {Antenna Technology and Applied Electromagnetics and Canadian Radio Sciences Conference, 2006. ANTEM 2006. 12th International Symposium on},
+  pages = {1--4},
+  year = {2006},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+M. Phelan and J. LoVetri, “Discrimination of subsurface targets with a plane of symmetry using polarimetric bistatic radar,” in Ground Penetrating Radar, 2004. GPR 2004. Proceedings of the Tenth International Conference on, 2004, vol. 1, pp. 49–52. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{phelan2004discrimination,
+  title = {Discrimination of subsurface targets with a plane of symmetry using polarimetric bistatic radar},
+  author = {Phelan, Michael and LoVetri, Joe},
+  booktitle = {Ground Penetrating Radar, 2004. GPR 2004. Proceedings of the Tenth International Conference on},
+  volume = {1},
+  pages = {49--52},
+  year = {2004},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+G. Thomas, J. LoVetri, W. Chamma, S. Kashyap, and A. Louie, “Sidelobe apodization for high resolution of scattering centres in ISAR images,” in Antennas and Propagation Society International Symposium, 2001. IEEE, 2001, vol. 2, pp. 232–235. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{thomas2001sidelobe,
+  title = {Sidelobe apodization for high resolution of scattering centres in ISAR images},
+  author = {Thomas, G and LoVetri, J and Chamma, W and Kashyap, S and Louie, A},
+  booktitle = {Antennas and Propagation Society International Symposium, 2001. IEEE},
+  volume = {2},
+  pages = {232--235},
+  year = {2001},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+C. Gilmore, S. Peters, J. LoVetri, and D. McNeill, “GPR target detection using a neural network classifier of image moments as invariant features,” in Antenna Technology and Applied Electromagnetics and URSI Conference, 2004. ANTEM 2004. 10th International Symposium on, 2004, pp. 1–4. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{gilmore2004gpr,
+  title = {GPR target detection using a neural network classifier of image moments as invariant features},
+  author = {Gilmore, Colin and Peters, Scott and LoVetri, Joe and McNeill, Dean},
+  booktitle = {Antenna Technology and Applied Electromagnetics and URSI Conference, 2004. ANTEM 2004. 10th International Symposium on},
+  pages = {1--4},
+  year = {2004},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+I. Belokour, J. LoVetri, and S. Kashyap, “A higher-order mode transmission line model of the shielding effectiveness of enclosures with apertures,” in Electromagnetic Compatibility, 2001. EMC. 2001 IEEE International Symposium on, 2001, vol. 2, pp. 702–707. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{belokour2001higher,
+  title = {A higher-order mode transmission line model of the shielding effectiveness of enclosures with apertures},
+  author = {Belokour, I and LoVetri, J and Kashyap, S},
+  booktitle = {Electromagnetic Compatibility, 2001. EMC. 2001 IEEE International Symposium on},
+  volume = {2},
+  pages = {702--707},
+  year = {2001},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. E. Makaran and J. LoVetri, “Prediction of conducted RFI emissions in BLDC motors for automotive applications,” in Electromagnetic Compatibility, 2001. EMC. 2001 IEEE International Symposium on, 2001, vol. 1, pp. 21–25. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{makaran2001prediction,
+  title = {Prediction of conducted RFI emissions in BLDC motors for automotive applications},
+  author = {Makaran, JE and LoVetri, J},
+  booktitle = {Electromagnetic Compatibility, 2001. EMC. 2001 IEEE International Symposium on},
+  volume = {1},
+  pages = {21--25},
+  year = {2001},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+1995-2000
+I. Belokour, J. LoVetri, and S. Kashyap, “Shielding effectiveness estimation of enclosures with apertures,” in Electromagnetic Compatibility, 2000. IEEE International Symposium on, 2000, vol. 2, pp. 855–860. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{belokour2000shielding,
+  title = {Shielding effectiveness estimation of enclosures with apertures},
+  author = {Belokour, I and LoVetri, J and Kashyap, S},
+  booktitle = {Electromagnetic Compatibility, 2000. IEEE International Symposium on},
+  volume = {2},
+  pages = {855--860},
+  year = {2000},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. LoVetri, A. T. M. Wilbers, and A. P. M. Zwamborn, “Microwave interaction with a personal computer: experiment and modeling,” in Proc. of the 13th Int. Zurich Symp. on EMC, Zurich, Switzerland, 1999, pp. 203–206. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{lovetri1999microwave,
+  title = {Microwave interaction with a personal computer: experiment and modeling},
+  author = {LoVetri, J and Wilbers, ATM and Zwamborn, APM},
+  booktitle = {Proc. of the 13th Int. Zurich Symp. on EMC, Zurich, Switzerland},
+  pages = {203--206},
+  year = {1999}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. LoVetri, S. Primak, B. J. A. M. van Leersum, and A. P. M. Zwamborn, “Feasibility study into the identification of landmines using UWB radar: An analysis using synthesized data,” in Ultra-Wideband Short-Pulse Electromagnetics 4, 1998, 1998, pp. 425–432. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{lovetri1998feasibility,
+  title = {Feasibility study into the identification of landmines using UWB radar: An analysis using synthesized data},
+  author = {LoVetri, J and Primak, S and van Leersum, BJAM and Zwamborn, APM},
+  booktitle = {Ultra-Wideband Short-Pulse Electromagnetics 4, 1998},
+  pages = {425--432},
+  year = {1998},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+S. Primak and J. L. Vetri, “Estimation and numerical simulation of EM field inside leaky enclosures,” in Antenna Technology and Applied Electromagnetics [ANTEM 2000], Symposium on, 2000, pp. 365–368. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{primak2000estimation,
+  title = {Estimation and numerical simulation of EM field inside leaky enclosures},
+  author = {Primak, Serguei and Vetri, Joe Lo},
+  booktitle = {Antenna Technology and Applied Electromagnetics [ANTEM 2000], Symposium on},
+  pages = {365--368},
+  year = {2000},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+R. Siushansian, N. R. S. Simons, and J. LoVetri, “Formulation of lumped elements in a general (conformal) coordinate system,” in Antenna Technology and Applied Electromagnetics [ANTEM 2000], Symposium on, 2000, pp. 329–332. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{siushansian2000formulation,
+  title = {Formulation of lumped elements in a general (conformal) coordinate system},
+  author = {Siushansian, R and Simons, NRS and LoVetri, J},
+  booktitle = {Antenna Technology and Applied Electromagnetics [ANTEM 2000], Symposium on},
+  pages = {329--332},
+  year = {2000},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+T. Lapohos, J. LoVetri, J. Seregelyi, and N. Somons, “Experimental validation of numerical models for packaged MTL networks in non-plane wave external fields,” in Electromagnetic Compatibility, 1998. 1998 IEEE International Symposium on, 1998, vol. 2, pp. 969–974. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{lapohos1998experimental,
+  title = {Experimental validation of numerical models for packaged MTL networks in non-plane wave external fields},
+  author = {Lapohos, Tibor and LoVetri, Joe and Seregelyi, Joe and Somons, N},
+  booktitle = {Electromagnetic Compatibility, 1998. 1998 IEEE International Symposium on},
+  volume = {2},
+  pages = {969--974},
+  year = {1998},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+S. Primak, J. LoVetri, and S. Kashyap, “Towards a theory of submarine mast detection,” in Ultra-Wideband Short-Pulse Electromagnetics 4, 1998, 1998, pp. 379–386. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{primak1998towards,
+  title = {Towards a theory of submarine mast detection},
+  author = {Primak, S and LoVetri, J and Kashyap, S},
+  booktitle = {Ultra-Wideband Short-Pulse Electromagnetics 4, 1998},
+  pages = {379--386},
+  year = {1998},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. LoVetri, N. R. S. Simons, and B. J. A. M. van Leersum, “Analysis of UWB Scattering from Dielectric Objects Buried in a Lossy Layered Ground using FDTD and TLM,” in Proceedings PIERS 1998-Progress in Electromagnetics Research Symposium, 13-17 July, 1998, Cite des congres, Nantes, France, Volume I, 43, 1998. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{lovetri1998analysis,
+  title = {Analysis of UWB Scattering from Dielectric Objects Buried in a Lossy Layered Ground using FDTD and TLM},
+  author = {LoVetri, J and Simons, NRS and van Leersum, BJAM},
+  booktitle = {Proceedings PIERS 1998-Progress in Electromagnetics Research Symposium, 13-17 July, 1998, Cite des congres, Nantes, France, Volume I, 43},
+  year = {1998}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+R. Siushansian and J. LoVetri, “An efficient higher order numerical convolution for modelling Nth-order Lorentz dispersion,” in Antennas and Propagation Society International Symposium, 1995. AP-S. Digest, 1995, vol. 1, pp. 632–635. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{siushansian1995efficient,
+  title = {An efficient higher order numerical convolution for modelling Nth-order Lorentz dispersion},
+  author = {Siushansian, Riaz and LoVetri, Joe},
+  booktitle = {Antennas and Propagation Society International Symposium, 1995. AP-S. Digest},
+  volume = {1},
+  pages = {632--635},
+  year = {1995},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. Lovetri, M. S. Wartak, and R. Siushansian, “A review of nonlinear electromagnetic propagation effects,” in In AGARD, High Power Microwaves (HPM), Volume 1 9 p (SEE N96-13860 02-32), 1995, vol. 1. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{lovetri1995review,
+  title = {A review of nonlinear electromagnetic propagation effects},
+  author = {Lovetri, Joe and Wartak, Marek S and Siushansian, Riaz},
+  booktitle = {In AGARD, High Power Microwaves (HPM), Volume 1 9 p (SEE N96-13860 02-32)},
+  volume = {1},
+  year = {1995}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. LoVetri and T. Lapohos, “Explicit upwind difference schemes for lossy multiconductor transmission lines,” in Antenna Technology and Applied Electromagnetics, 1996. ANTEM 1996. Symposium on, 1996, pp. 291–294. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{lovetri1996explicit,
+  title = {Explicit upwind difference schemes for lossy multiconductor transmission lines},
+  author = {LoVetri, Joe and Lapohos, Tibor},
+  booktitle = {Antenna Technology and Applied Electromagnetics, 1996. ANTEM 1996. Symposium on},
+  pages = {291--294},
+  year = {1996},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+D. Cule, N. R. S. Simons, G. E. Bridges, M. Cuhaci, and J. LoVetri, “Investigation of geometrically small features within numerical solutions to electromagnetic field problems,” in Antenna Technology and Applied Electromagnetics, 1996. ANTEM 1996. Symposium on, 1996, pp. 223–226. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{cule1996investigation,
+  title = {Investigation of geometrically small features within numerical solutions to electromagnetic field problems},
+  author = {Cule, D and Simons, NRS and Bridges, GE and Cuhaci, M and LoVetri, J},
+  booktitle = {Antenna Technology and Applied Electromagnetics, 1996. ANTEM 1996. Symposium on},
+  pages = {223--226},
+  year = {1996},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+R. Siushansian and J. LoVetri, “On the modelling of skin effect for multiconductor transmission lines using FDTD scheme,” in Antenna Technology and Applied Electromagnetics, 1996. ANTEM 1996. Symposium on, 1996, pp. 227–230. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{siushansian1996modelling,
+  title = {On the modelling of skin effect for multiconductor transmission lines using FDTD scheme},
+  author = {Siushansian, Riaz and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics, 1996. ANTEM 1996. Symposium on},
+  pages = {227--230},
+  year = {1996},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+Pre 1995
+J. LoVetri and N. R. S. Simons, “Random update TLM method,” in Antennas and Propagation Society International Symposium, 1993. AP-S. Digest, 1993, pp. 22–25. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{lovetri1993random,
+  title = {Random update TLM method},
+  author = {LoVetri, J and Simons, NRS},
+  booktitle = {Antennas and Propagation Society International Symposium, 1993. AP-S. Digest},
+  pages = {22--25},
+  year = {1993},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+A. M. Davidson and J. LoVetri, “A review of irregular conformal meshes in FDTD,” in Antenna Technology and Applied Electromagnetics [ANTEM 1994] Symposium on, 1994, pp. 353–356. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{davidson1994review,
+  title = {A review of irregular conformal meshes in FDTD},
+  author = {Davidson, Anthony M and LoVetri, Joe},
+  booktitle = {Antenna Technology and Applied Electromagnetics [ANTEM 1994] Symposium on},
+  pages = {353--356},
+  year = {1994},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. L. Vetri and W. H. Henneker, “Fuzzy logic implementation of an electromagnetic interactions modelling tool,” in Electromagnetic Compatibility, 1992. Symposium Record., IEEE 1992 International Symposium on, 1992, pp. 127–130. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{vetri1992fuzzy,
+  title = {Fuzzy logic implementation of an electromagnetic interactions modelling tool},
+  author = {Vetri, J Lo and Henneker, WH},
+  booktitle = {Electromagnetic Compatibility, 1992. Symposium Record., IEEE 1992 International Symposium on},
+  pages = {127--130},
+  year = {1992},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+S. L. Primak and J. L. Vetri, “Modal estimates to describe the topological attributes of multidimensional systems,” in Electromagnetic Compatibility, 1994. Symposium Record. Compatibility in the Loop., IEEE International Symposium on, 1994, pp. 89–94. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{primak1994modal,
+  title = {Modal estimates to describe the topological attributes of multidimensional systems},
+  author = {Primak, Sergey L and Vetri, J Lo},
+  booktitle = {Electromagnetic Compatibility, 1994. Symposium Record. Compatibility in the Loop., IEEE International Symposium on},
+  pages = {89--94},
+  year = {1994},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. LoVetri and N. R. S. Simons, “Derivation of TLM type methods from characteristic field decompositions,” in Antenna Technology and Applied Electromagnetics, 1992. ANTEM. Symposium on, 1992, pp. 185–190. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{lovetri1992derivation,
+  title = {Derivation of TLM type methods from characteristic field decompositions},
+  author = {LoVetri, Joe and Simons, Neil RS},
+  booktitle = {Antenna Technology and Applied Electromagnetics, 1992. ANTEM. Symposium on},
+  pages = {185--190},
+  year = {1992},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+M. Rizvi and J. L. Vetri, “ESD source modeling in FDTD,” in Electromagnetic Compatibility, 1994. Symposium Record. Compatibility in the Loop., IEEE International Symposium on, 1994, pp. 77–82. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{rizvi1994esd,
+  title = {ESD source modeling in FDTD},
+  author = {Rizvi, Mubashir and Vetri, J Lo},
+  booktitle = {Electromagnetic Compatibility, 1994. Symposium Record. Compatibility in the Loop., IEEE International Symposium on},
+  pages = {77--82},
+  year = {1994},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. LoVetri, S. Abu-Hakima, A. S. Podgorski, and G. I. Costache, “HardSys-applying expert system techniques to electromagnetic hardening,” in Electromagnetic Compatibility, 1989., IEEE 1989 National Symposium on, 1989, pp. 383–385. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{lovetri1989hardsys,
+  title = {HardSys-applying expert system techniques to electromagnetic hardening},
+  author = {LoVetri, Joe and Abu-Hakima, Suhayya and Podgorski, Andrew S and Costache, George I},
+  booktitle = {Electromagnetic Compatibility, 1989., IEEE 1989 National Symposium on},
+  pages = {383--385},
+  year = {1989},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. LoVetri and G. I. Costache, “Time domain finite element analysis of 2-D shields,” in Antennas and Propagation Society International Symposium, 1990. AP-S. Merging Technologies for the 90’s. Digest., 1990, pp. 18–21. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{lovetri1990time,
+  title = {Time domain finite element analysis of 2-D shields},
+  author = {LoVetri, J and Costache, GI},
+  booktitle = {Antennas and Propagation Society International Symposium, 1990. AP-S. Merging Technologies for the 90's. Digest.},
+  pages = {18--21},
+  year = {1990},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. LoVetri and M. S. Wartak, “Practical comparison of finite difference time domain schemes,” in Antennas and Propagation Society International Symposium, 1991. AP-S. Digest, 1991, pp. 418–421. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{lovetri1991practical,
+  title = {Practical comparison of finite difference time domain schemes},
+  author = {LoVetri, J and Wartak, MS},
+  booktitle = {Antennas and Propagation Society International Symposium, 1991. AP-S. Digest},
+  pages = {418--421},
+  year = {1991},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. LoVetri and G. I. Costache, “Efficiency issues in the implementation of finite difference time domain codes,” in Antennas and Propagation Society International Symposium, 1991. AP-S. Digest, 1991, pp. 1746–1749. 
+
+
+  
+    
+    RC08
+    
+    
+
+    BibTeX
+
+    @inproceedings{RC08,
+  title = {Efficiency issues in the implementation of finite difference time domain codes},
+  author = {LoVetri, J and Costache, GI},
+  booktitle = {Antennas and Propagation Society International Symposium, 1991. AP-S. Digest},
+  pages = {1746--1749},
+  year = {1991},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. LoVetri and E. J. Weckman, “ELECTRIC SPACE CHARGES AND EXPLOSION HAZARDS IN AVIATION FUEL SYSTEMS/./. Inculet Department of Electrical Engineering The University of Western Ontario,” in Proceedings of the 1992 International Aerospace and Ground Conference on Lightning and Static Electricity: October 6-8, 1992, Trump Taj Mahal, Atlantic City, NJ., 1992, p. 14. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{lovetri1992electric,
+  title = {ELECTRIC SPACE CHARGES AND EXPLOSION HAZARDS IN AVIATION FUEL SYSTEMS/./. Inculet Department of Electrical Engineering The University of Western Ontario},
+  author = {LoVetri, J and Weckman, EJ},
+  booktitle = {Proceedings of the 1992 International Aerospace and Ground Conference on Lightning and Static Electricity: October 6-8, 1992, Trump Taj Mahal, Atlantic City, NJ.},
+  pages = {14},
+  year = {1992},
+  organization = {US Department of Transportation, Federal Aviation Administration}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+M. M. Kekez, J. LoVetri, A. S. Podgorski, J. G. Dunn, and G. Gibson, “A 60 joule, 600kv, 1ns rise-time marx system,” in Pulsed Power Conference, 1989. 7th, 1989, pp. 123–127. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{kekez198960,
+  title = {A 60 joule, 600kv, 1ns rise-time marx system},
+  author = {Kekez, MM and LoVetri, J and Podgorski, AS and Dunn, JG and Gibson, G},
+  booktitle = {Pulsed Power Conference, 1989. 7th},
+  pages = {123--127},
+  year = {1989},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+M. M. Kekez, J. LoVetri, A. S. Podgorski, J. G. Dunn, and G. Gibson, “K1A 0R8,” in Digest of technical papers: Seventh IEEE Pulsed Power Conference, the Monterey Conference Center, Monterey, California, June 11-14, 1989, 1989, p. 123. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{kekez1989k1a,
+  title = {K1A 0R8},
+  author = {Kekez, MM and LoVetri, J and Podgorski, AS and Dunn, JG and Gibson, G},
+  booktitle = {Digest of technical papers: Seventh IEEE Pulsed Power Conference, the Monterey Conference Center, Monterey, California, June 11-14, 1989},
+  pages = {123},
+  year = {1989},
+  organization = {Institute of Electrical and Electronics Engineers}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. L. Vetri and A. S. Podgorski, “Evaluation of HardSys: A simple EMI expert system,” in Electromagnetic Compatibility, 1990. Symposium Record., 1990 IEEE International Symposium on, 1990, pp. 228–232. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{vetri1990evaluation,
+  title = {Evaluation of HardSys: A simple EMI expert system},
+  author = {Vetri, J Lo and Podgorski, Andrew S},
+  booktitle = {Electromagnetic Compatibility, 1990. Symposium Record., 1990 IEEE International Symposium on},
+  pages = {228--232},
+  year = {1990},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+
+
+
+
+
+
+J. LoVetri and M. Hamid, “Three Dimensional Temperature Gradients by the Inverse Black Body Radiation
+Method,” in Proceedings of 19th Annual Int. Microwave Power Institute Symposium, Minneapolis, Minnesota, Sept. 17-19, 1984, pp. 150–151. 
+
+
+  
+    
+    
+
+    BibTeX
+
+    @inproceedings{CP1,
+  title = {Three Dimensional Temperature Gradients by the Inverse Black Body Radiation
+  Method},
+  author = {LoVetri, J and Hamid, M},
+  booktitle = {Proceedings of 19th Annual Int. Microwave Power Institute Symposium, Minneapolis, Minnesota, Sept. 17-19},
+  pages = {150--151},
+  year = {1984},
+  organization = {International Microwave Power Institute}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://joelovetri.github.io{&quot;feature&quot;=&gt;nil}" /></entry><entry><title type="html">Journal Publications</title><link href="http://joelovetri.github.io/publications/Journals/" rel="alternate" type="text/html" title="Journal Publications" /><published>2017-02-05T00:00:00-06:00</published><updated>2017-02-05T00:00:00-06:00</updated><id>http://joelovetri.github.io/publications/Journals</id><content type="html" xml:base="http://joelovetri.github.io/publications/Journals/">&lt;h3 id=&quot;section&quot;&gt;2017&lt;/h3&gt;
 &lt;ul class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;JP70&quot;&gt;M. Asefi, A. Zakaria, and J. LoVetri, “Microwave Imaging Using Normal Electric-Field Components Inside Metallic Resonant Chambers,” &lt;i&gt;IEEE Transactions on Microwave Theory and Techniques&lt;/i&gt;, vol. PP, no. 99, pp. 1–11, 2017. &lt;/span&gt;
 
 &lt;div id=&quot;JP70-materials&quot;&gt;
@@ -5472,14 +10974,4 @@ To add new posts, simply add a file in the _posts directory that follows the con
       &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Syntax_highlighting&quot;&gt;http://en.wikipedia.org/wiki/Syntax_highlighting&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><category term="sample-post" /><category term="code" /><category term="highlighting" /><summary type="html">Demo post displaying the various ways of highlighting code in Markdown.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://joelovetri.github.io{&quot;feature&quot;=&gt;&quot;so-simple-sample-image-5.jpg&quot;, &quot;credit&quot;=&gt;&quot;WeGraphics&quot;, &quot;creditlink&quot;=&gt;&quot;http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/&quot;}" /></entry><entry><title type="html">Sample Link Post</title><link href="http://joelovetri.github.io/articles/sample-link-post/" rel="alternate" type="text/html" title="Sample Link Post" /><published>2013-08-12T00:00:00-05:00</published><updated>2013-08-12T00:00:00-05:00</updated><id>http://joelovetri.github.io/articles/sample-link-post</id><content type="html" xml:base="http://joelovetri.github.io/articles/sample-link-post/">&lt;p&gt;So Simple Theme now supports &lt;strong&gt;link posts&lt;/strong&gt;, made famous by John Gruber. To activate just add &lt;code class=&quot;highlighter-rouge&quot;&gt;link: http://url-you-want-linked&lt;/code&gt; to the post’s YAML front matter and you’re done.&lt;/p&gt;</content><category term="sample-post" /><category term="link-post" /><summary type="html">Example and code for using link posts.</summary></entry><entry><title type="html">A Post with a Video</title><link href="http://joelovetri.github.io/articles/video-post/" rel="alternate" type="text/html" title="A Post with a Video" /><published>2013-06-25T00:00:00-05:00</published><updated>2013-06-25T00:00:00-05:00</updated><id>http://joelovetri.github.io/articles/video-post</id><content type="html" xml:base="http://joelovetri.github.io/articles/video-post/">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/pdSp4Y4GOQs&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
-
-&lt;p&gt;Video embeds are responsive and scale with the width of the main content block with the help of &lt;a href=&quot;http://fitvidsjs.com/&quot;&gt;FitVids&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;315&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://www.youtube.com/embed/PWf4WUoMXwg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;And here’s a Vimeo embed for testing purposes.&lt;/p&gt;
-
-&lt;iframe src=&quot;//player.vimeo.com/video/98146708?title=0&amp;amp;byline=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;</content><category term="sample-post" /><category term="video" /><summary type="html">Custom written post descriptions are the way to go... if you're not lazy.</summary></entry></feed>
+&lt;/div&gt;</content><category term="sample-post" /><category term="code" /><category term="highlighting" /><summary type="html">Demo post displaying the various ways of highlighting code in Markdown.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://joelovetri.github.io{&quot;feature&quot;=&gt;&quot;so-simple-sample-image-5.jpg&quot;, &quot;credit&quot;=&gt;&quot;WeGraphics&quot;, &quot;creditlink&quot;=&gt;&quot;http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/&quot;}" /></entry><entry><title type="html">Sample Link Post</title><link href="http://joelovetri.github.io/articles/sample-link-post/" rel="alternate" type="text/html" title="Sample Link Post" /><published>2013-08-12T00:00:00-05:00</published><updated>2013-08-12T00:00:00-05:00</updated><id>http://joelovetri.github.io/articles/sample-link-post</id><content type="html" xml:base="http://joelovetri.github.io/articles/sample-link-post/">&lt;p&gt;So Simple Theme now supports &lt;strong&gt;link posts&lt;/strong&gt;, made famous by John Gruber. To activate just add &lt;code class=&quot;highlighter-rouge&quot;&gt;link: http://url-you-want-linked&lt;/code&gt; to the post’s YAML front matter and you’re done.&lt;/p&gt;</content><category term="sample-post" /><category term="link-post" /><summary type="html">Example and code for using link posts.</summary></entry></feed>
