@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://joelovetri.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://joelovetri.github.io/" rel="alternate" type="text/html" /><updated>2017-03-12T10:06:23-05:00</updated><id>http://joelovetri.github.io/</id><title type="html">Joe LoVetri’s Web Site</title><subtitle>All my interests--from Science and Technology to Philosophy.</subtitle><entry><title type="html">Conferences</title><link href="http://joelovetri.github.io/publications/Conferences/" rel="alternate" type="text/html" title="Conferences" /><published>2017-03-11T00:00:00-06:00</published><updated>2017-03-11T00:00:00-06:00</updated><id>http://joelovetri.github.io/publications/Conferences</id><content type="html" xml:base="http://joelovetri.github.io/publications/Conferences/">&lt;h3 id=&quot;section&quot;&gt;2017&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://joelovetri.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://joelovetri.github.io/" rel="alternate" type="text/html" /><updated>2017-03-15T09:09:15-05:00</updated><id>http://joelovetri.github.io/</id><title type="html">Joe LoVetri’s Web Site</title><subtitle>All my interests--from Science and Technology to Philosophy.</subtitle><entry><title type="html">Conferences</title><link href="http://joelovetri.github.io/publications/Conferences/" rel="alternate" type="text/html" title="Conferences" /><published>2017-03-11T00:00:00-06:00</published><updated>2017-03-11T00:00:00-06:00</updated><id>http://joelovetri.github.io/publications/Conferences</id><content type="html" xml:base="http://joelovetri.github.io/publications/Conferences/">&lt;h3 id=&quot;section&quot;&gt;2017&lt;/h3&gt;
 &lt;ul class=&quot;bibliography&quot;&gt;&lt;/ul&gt;
 &lt;h3 id=&quot;section-1&quot;&gt;2016&lt;/h3&gt;
 &lt;ul class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;abdollahi2016green&quot;&gt;N. Abdollahi, I. Jeffrey, and J. LoVetri, “Green’s theorem based eigenfunction formulations for PEC-enclosed electromagnetic imaging,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on&lt;/i&gt;, 2016, pp. 1–2. &lt;/span&gt;
@@ -2491,124 +2491,6 @@
 
 
 &lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;lovetri1989hardsys&quot;&gt;J. LoVetri, S. Abu-Hakima, A. S. Podgorski, and G. I. Costache, “HardSys-applying expert system techniques to electromagnetic hardening,” in &lt;i&gt;Electromagnetic Compatibility, 1989., IEEE 1989 National Symposium on&lt;/i&gt;, 1989, pp. 383–385. &lt;/span&gt;
-
-&lt;div id=&quot;lovetri1989hardsys-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lovetri1989hardsys-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-    &lt;pre id=&quot;lovetri1989hardsys-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lovetri1989hardsys,
-  title = {HardSys-applying expert system techniques to electromagnetic hardening},
-  author = {LoVetri, Joe and Abu-Hakima, Suhayya and Podgorski, Andrew S and Costache, George I},
-  booktitle = {Electromagnetic Compatibility, 1989., IEEE 1989 National Symposium on},
-  pages = {383--385},
-  year = {1989},
-  organization = {IEEE}
-}
-&lt;/pre&gt;
-
-    
-  &lt;/ul&gt;
-
-  
-
-
-&lt;/div&gt;
-
-
-&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;lovetri1990time&quot;&gt;J. LoVetri and G. I. Costache, “Time domain finite element analysis of 2-D shields,” in &lt;i&gt;Antennas and Propagation Society International Symposium, 1990. AP-S. Merging Technologies for the 90’s. Digest.&lt;/i&gt;, 1990, pp. 18–21. &lt;/span&gt;
-
-&lt;div id=&quot;lovetri1990time-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lovetri1990time-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-    &lt;pre id=&quot;lovetri1990time-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lovetri1990time,
-  title = {Time domain finite element analysis of 2-D shields},
-  author = {LoVetri, J and Costache, GI},
-  booktitle = {Antennas and Propagation Society International Symposium, 1990. AP-S. Merging Technologies for the 90's. Digest.},
-  pages = {18--21},
-  year = {1990},
-  organization = {IEEE}
-}
-&lt;/pre&gt;
-
-    
-  &lt;/ul&gt;
-
-  
-
-
-&lt;/div&gt;
-
-
-&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;lovetri1991practical&quot;&gt;J. LoVetri and M. S. Wartak, “Practical comparison of finite difference time domain schemes,” in &lt;i&gt;Antennas and Propagation Society International Symposium, 1991. AP-S. Digest&lt;/i&gt;, 1991, pp. 418–421. &lt;/span&gt;
-
-&lt;div id=&quot;lovetri1991practical-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#lovetri1991practical-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-    &lt;pre id=&quot;lovetri1991practical-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{lovetri1991practical,
-  title = {Practical comparison of finite difference time domain schemes},
-  author = {LoVetri, J and Wartak, MS},
-  booktitle = {Antennas and Propagation Society International Symposium, 1991. AP-S. Digest},
-  pages = {418--421},
-  year = {1991},
-  organization = {IEEE}
-}
-&lt;/pre&gt;
-
-    
-  &lt;/ul&gt;
-
-  
-
-
-&lt;/div&gt;
-
-
-&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;RC08&quot;&gt;J. LoVetri and G. I. Costache, “Efficiency issues in the implementation of finite difference time domain codes,” in &lt;i&gt;Antennas and Propagation Society International Symposium, 1991. AP-S. Digest&lt;/i&gt;, 1991, pp. 1746–1749. &lt;/span&gt;
-
-&lt;div id=&quot;RC08-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a href=&quot;/Publication PDFs/Conference Papers/RC08.pdf&quot;&gt;&lt;b&gt;RC08&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
-    
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC08-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-    &lt;pre id=&quot;RC08-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{RC08,
-  title = {Efficiency issues in the implementation of finite difference time domain codes},
-  author = {LoVetri, J and Costache, GI},
-  booktitle = {Antennas and Propagation Society International Symposium, 1991. AP-S. Digest},
-  pages = {1746--1749},
-  year = {1991},
-  organization = {IEEE}
-}
-&lt;/pre&gt;
-
-    
-  &lt;/ul&gt;
-
-  
-
-
-&lt;/div&gt;
-
-
-&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;lovetri1992electric&quot;&gt;J. LoVetri and E. J. Weckman, “ELECTRIC SPACE CHARGES AND EXPLOSION HAZARDS IN AVIATION FUEL SYSTEMS/./. Inculet Department of Electrical Engineering The University of Western Ontario,” in &lt;i&gt;Proceedings of the 1992 International Aerospace and Ground Conference on Lightning and Static Electricity: October 6-8, 1992, Trump Taj Mahal, Atlantic City, NJ.&lt;/i&gt;, 1992, p. 14. &lt;/span&gt;
 
 &lt;div id=&quot;lovetri1992electric-materials&quot;&gt;
@@ -2638,28 +2520,81 @@
 
 
 &lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;kekez198960&quot;&gt;M. M. Kekez, J. LoVetri, A. S. Podgorski, J. G. Dunn, and G. Gibson, “A 60 joule, 600kv, 1ns rise-time marx system,” in &lt;i&gt;Pulsed Power Conference, 1989. 7th&lt;/i&gt;, 1989, pp. 123–127. &lt;/span&gt;
+&lt;li&gt;&lt;span id=&quot;RC09&quot;&gt;J. LoVetri and W. H. Henneker, “HardSys/HardDraw: A smart topology based electromagnetic interaction modelling tool,” in &lt;i&gt;Proc. of AIENG’91: Applications of Artificial Intelligence in Engineering VI, ed. G. Rzevski &amp;amp; R. A. Adey, University of Oxford, UK, July 2-4&lt;/i&gt;, Dordrecht, 1991, pp. 343–365 [Online]. Available at: http://dx.doi.org/10.1007/978-94-011-3648-8_23&lt;/span&gt;
 
-&lt;div id=&quot;kekez198960-materials&quot;&gt;
+&lt;div id=&quot;RC09-materials&quot;&gt;
   &lt;ul class=&quot;nav nav-pills&quot;&gt;
     
+    &lt;li&gt;&lt;a href=&quot;/Publication PDFs/Conference Papers/RC09.pdf&quot;&gt;&lt;b&gt;RC09&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC09-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
     
 
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#kekez198960-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC09-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
-    &lt;pre id=&quot;kekez198960-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{kekez198960,
-  title = {A 60 joule, 600kv, 1ns rise-time marx system},
-  author = {Kekez, MM and LoVetri, J and Podgorski, AS and Dunn, JG and Gibson, G},
-  booktitle = {Pulsed Power Conference, 1989. 7th},
-  pages = {123--127},
-  year = {1989},
+    &lt;pre id=&quot;RC09-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{RC09,
+  author = {LoVetri, J. and Henneker, W.H.},
+  editor = {Rzevski, G. and Adey, R. A.},
+  title = {HardSys/HardDraw: A smart topology based electromagnetic interaction modelling tool},
+  booktitle = {Proc. of AIENG’91: Applications of Artificial Intelligence in Engineering VI, ed. G. Rzevski &amp;amp; R. A. Adey, University of Oxford, UK, July 2-4},
+  year = {1991},
+  publisher = {Springer Netherlands},
+  address = {Dordrecht},
+  pages = {343--365},
+  isbn = {978-94-011-3648-8},
+  doi = {10.1007/978-94-011-3648-8_23},
+  url = {http://dx.doi.org/10.1007/978-94-011-3648-8_23}
+}
+&lt;/pre&gt;
+
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;http://dx.doi.org/10.1007/978-94-011-3648-8_23&quot;&gt;10.1007/978-94-011-3648-8_23&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;RC09-abstract&quot; class=&quot;collapse&quot;&gt;An intelligent tool for the modelling and analysis of electromagnetic interactions in a complex electrical system is described. The purpose is to determine any unwanted electromagnetic effects which could jeopardize the safety and operation of the system. Modelling the interactions in a system requires the examination of the compounded and propagated effects of the electromagnetic fields. The approach taken here subdivides the modelling task into two parts: a) the definition of the related electromagnetic topology, and b) the propagation of the electromagnetic constraints. HardSys, a prototype object-based system implemented in Prolog, is used to propagate the electromagnetic constraints. User interaction is through HardDraw, a topology-drawing tool and an attribute interface.&lt;/p&gt;
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;RC08&quot;&gt;J. LoVetri and G. I. Costache, “Efficiency issues in the implementation of finite difference time domain codes,” in &lt;i&gt;1991 IEEE Antennas and Propagation Society Int. Symp. and URSI Radio Science Meeting, London, Ontario, June 24-28&lt;/i&gt;, 1991, pp. 1746–1749 vol.3. &lt;/span&gt;
+
+&lt;div id=&quot;RC08-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a href=&quot;/Publication PDFs/Conference Papers/RC08.pdf&quot;&gt;&lt;b&gt;RC08&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC08-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC08-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;RC08-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{RC08,
+  title = {Efficiency issues in the implementation of finite difference time domain codes},
+  author = {LoVetri, J and Costache, GI},
+  booktitle = {1991 IEEE Antennas and Propagation Society Int. Symp. and URSI Radio Science Meeting, London, Ontario, June 24-28},
+  year = {1991},
+  pages = {1746-1749 vol.3},
+  keywords = {C language;difference equations;electromagnetism;time-domain analysis;C-language;FDTD;Maxwell's equations;computational efficiency;conservation laws;electromagnetic energy;finite difference time domain codes;memory requirements;sparse time-domain electromagnetic problems;Computational efficiency;Councils;Difference equations;Differential equations;Electromagnetic shielding;Finite difference methods;Information technology;Lattices;Maxwell equations;Polynomials},
+  doi = {10.1109/APS.1991.175195},
+  month = jun,
   organization = {IEEE}
 }
 &lt;/pre&gt;
 
     
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;http://dx.doi.org/10.1109/APS.1991.175195&quot;&gt;10.1109/APS.1991.175195&lt;/a&gt;&lt;/li&gt;
+    
   &lt;/ul&gt;
 
+  
+  &lt;p id=&quot;RC08-abstract&quot; class=&quot;collapse&quot;&gt;Implementation techniques which increase the performance of time domain finite-difference codes for the solution of sparse time-domain electromagnetic problems are considered. As the basis of this analysis. Maxwell’s equations are expressed as a system of conservation laws. Practical issues such as computational efficiency and memory requirements are discussed for the implementation of the finite-difference schemes. Advanced programming techniques in the C-language are used to implement the finite-difference schemes discussed. The example of the penetration of electromagnetic energy through a shield with a thick-gap is used to check the efficiency of the methods.&lt;/p&gt;
   
 
 
@@ -2667,28 +2602,38 @@
 
 
 &lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;kekez1989k1a&quot;&gt;M. M. Kekez, J. LoVetri, A. S. Podgorski, J. G. Dunn, and G. Gibson, “K1A 0R8,” in &lt;i&gt;Digest of technical papers: Seventh IEEE Pulsed Power Conference, the Monterey Conference Center, Monterey, California, June 11-14, 1989&lt;/i&gt;, 1989, p. 123. &lt;/span&gt;
+&lt;li&gt;&lt;span id=&quot;RC07&quot;&gt;J. LoVetri and M. S. Wartak, “Practical comparison of finite difference time domain schemes,” in &lt;i&gt;1991 IEEE Antennas and Propagation Society Int. Symp. and URSI Radio Science Meeting, London, Ontario, June 24-28&lt;/i&gt;, 1991, pp. 418–421 vol.1. &lt;/span&gt;
 
-&lt;div id=&quot;kekez1989k1a-materials&quot;&gt;
+&lt;div id=&quot;RC07-materials&quot;&gt;
   &lt;ul class=&quot;nav nav-pills&quot;&gt;
     
+    &lt;li&gt;&lt;a href=&quot;/Publication PDFs/Conference Papers/RC07.pdf&quot;&gt;&lt;b&gt;RC07&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC07-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
     
 
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#kekez1989k1a-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC07-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
-    &lt;pre id=&quot;kekez1989k1a-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{kekez1989k1a,
-  title = {K1A 0R8},
-  author = {Kekez, MM and LoVetri, J and Podgorski, AS and Dunn, JG and Gibson, G},
-  booktitle = {Digest of technical papers: Seventh IEEE Pulsed Power Conference, the Monterey Conference Center, Monterey, California, June 11-14, 1989},
-  pages = {123},
-  year = {1989},
-  organization = {Institute of Electrical and Electronics Engineers}
+    &lt;pre id=&quot;RC07-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{RC07,
+  author = {LoVetri, J and Wartak, M S},
+  booktitle = {1991 IEEE Antennas and Propagation Society Int. Symp. and URSI Radio Science Meeting, London, Ontario, June 24-28},
+  title = {Practical comparison of finite difference time domain schemes},
+  year = {1991},
+  pages = {418-421 vol.1},
+  keywords = {computational complexity;difference equations;electromagnetism;shielding;time-domain analysis;Lax-Wendroff scheme;computational efficiency;conducting shield;conservation laws;electromagnetic energy penetration;electromagnetism;finite difference time domain schemes;leap frog scheme;memory requirements;thick gap;time per node;time-domain Maxwell's equations;two step rotated Richtmyer scheme;upwind scheme;Content addressable storage;Councils;Finite difference methods;Physics computing;Stability},
+  doi = {10.1109/APS.1991.174864},
+  month = jun
 }
 &lt;/pre&gt;
 
     
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;http://dx.doi.org/10.1109/APS.1991.174864&quot;&gt;10.1109/APS.1991.174864&lt;/a&gt;&lt;/li&gt;
+    
   &lt;/ul&gt;
 
+  
+  &lt;p id=&quot;RC07-abstract&quot; class=&quot;collapse&quot;&gt;Practical finite-difference methods for the time-domain Maxwell’s equations are considered. Leap frog, Lax-Wendroff, and upwind schemes are considered. As the basis of this analysis, Maxwell’s equations are expressed as a system of conservation laws. Practical considerations, such as computational efficiency and memory requirements, for the methods are discussed. The example of the penetration of electromagnetic energy through a shield with a thick gap in two dimensions is used to compare the methods. It is shown that the time per node is relatively constant for each method, but is considerably greater for the upwind scheme. It is also shown that the upwind algorithm resolves discontinuities in the medium better than the other techniques.&lt;/p&gt;
   
 
 
@@ -2696,19 +2641,23 @@
 
 
 &lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;vetri1990evaluation&quot;&gt;J. L. Vetri and A. S. Podgorski, “Evaluation of HardSys: A simple EMI expert system,” in &lt;i&gt;Electromagnetic Compatibility, 1990. Symposium Record., 1990 IEEE International Symposium on&lt;/i&gt;, 1990, pp. 228–232. &lt;/span&gt;
+&lt;li&gt;&lt;span id=&quot;RC06&quot;&gt;J. LoVetri and A. S. Podgorski, “Evaluation of HardSys: A simple EMI expert system,” in &lt;i&gt;Symposium Record: 1990 IEEE International Symposium on Electromagnetic Compatibility, Washington, D.C., August 21-23&lt;/i&gt;, 1990, pp. 228–232. &lt;/span&gt;
 
-&lt;div id=&quot;vetri1990evaluation-materials&quot;&gt;
+&lt;div id=&quot;RC06-materials&quot;&gt;
   &lt;ul class=&quot;nav nav-pills&quot;&gt;
     
+    &lt;li&gt;&lt;a href=&quot;/Publication PDFs/Conference Papers/RC06.pdf&quot;&gt;&lt;b&gt;RC06&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC06-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
     
 
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#vetri1990evaluation-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC06-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
-    &lt;pre id=&quot;vetri1990evaluation-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{vetri1990evaluation,
+    &lt;pre id=&quot;RC06-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{RC06,
   title = {Evaluation of HardSys: A simple EMI expert system},
-  author = {Vetri, J Lo and Podgorski, Andrew S},
-  booktitle = {Electromagnetic Compatibility, 1990. Symposium Record., 1990 IEEE International Symposium on},
+  author = {LoVetri, Joe and Podgorski, Andrew S},
+  booktitle = {Symposium Record: 1990 IEEE International Symposium on Electromagnetic Compatibility, Washington, D.C., August 21-23},
   pages = {228--232},
   year = {1990},
   organization = {IEEE}
@@ -2719,26 +2668,171 @@
   &lt;/ul&gt;
 
   
+  &lt;p id=&quot;RC06-abstract&quot; class=&quot;collapse&quot;&gt;The concepts used in designing HardSys, a simple expert system capable of reasoning about EMI problems, are described. These are then evaluated by running the expert system on a test case previously analyzed by an EMI consultant. The test case was a subset of the NEMP (nuclear electromagnetic pulse) hardening of a typical military helicopter. The knowledge representation used in HardSys is of a fuzzy nature and it is this fuzziness which the authors evaluate. It is concluded that the present knowledge representation is a very powerful tool for EMI engineers.&lt;/p&gt;
+  
 
 
 &lt;/div&gt;
 
 
 &lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;CP1&quot;&gt;J. LoVetri and M. Hamid, “Three Dimensional Temperature Gradients by the Inverse Black Body Radiation
-Method,” in &lt;i&gt;Proceedings of 19th Annual Int. Microwave Power Institute Symposium, Minneapolis, Minnesota, Sept. 17-19&lt;/i&gt;, 1984, pp. 150–151. &lt;/span&gt;
+&lt;li&gt;&lt;span id=&quot;RC05&quot;&gt;J. LoVetri and D. P. W. Graham, “Constraint propagation through electromagnetic interaction topologies,” in &lt;i&gt;1990 Symposium on Antenna Technology and Applied Electromagnetics, ANTEM, Winnipeg, Manitoba, Canada, August 15-17&lt;/i&gt;, 1990, pp. 766–771. &lt;/span&gt;
 
-&lt;div id=&quot;CP1-materials&quot;&gt;
+&lt;div id=&quot;RC05-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a href=&quot;/Publication PDFs/Conference Papers/RC05.pdf&quot;&gt;&lt;b&gt;RC05&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC05-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC05-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;RC05-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{RC05,
+  author = {LoVetri, J. and Graham, D. P. W.},
+  booktitle = {1990 Symposium on Antenna Technology and Applied Electromagnetics, ANTEM, Winnipeg, Manitoba, Canada, August 15-17},
+  title = {Constraint propagation through electromagnetic interaction topologies},
+  year = {1990},
+  pages = {766-771},
+  keywords = {Bipartite graph;Computers;Density measurement;Electromagnetic interference;Electromagnetics;Search problems;Topology},
+  month = aug
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;RC05-abstract&quot; class=&quot;collapse&quot;&gt;The effects of electromagnetic interactions in electrical systems are of concern because of the increased pollution of the environment with electromagnetic emissions and because of the increasing susceptibility of system components. The term electrical system is used herein in the general sense to include more than just networks of electronic components. Systems containing biological and/or mechanical components of varying complexity are also included when reference to the term electrical systems is made. Electromagnetic emissions from components within the electrical system, and also disturbances originating external to it, can be classified as deriving from intentional as well as non-intentional sources. The interaction effects on the susceptible components within these systems range from minor to catastrophic; they cannot always be predicted nor are they always understood. Study and control of this problem is very desirable and has involved the efforts of many persons from varying fields.&lt;/p&gt;
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;RC04&quot;&gt;J. LoVetri and G. I. Costache, “Time domain finite element analysis of 2-D shields,” in &lt;i&gt;Digest of technical papers: Antennas and Propagation Society International Symposium, 1990. AP-S. Merging Technologies for the 90’s., Dallas, Texas, May 7-11,&lt;/i&gt; 1990, pp. 18–21 vol.1. &lt;/span&gt;
+
+&lt;div id=&quot;RC04-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a href=&quot;/Publication PDFs/Conference Papers/RC04.pdf&quot;&gt;&lt;b&gt;RC04&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC04-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC04-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;RC04-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{RC04,
+  author = {LoVetri, J. and Costache, G. I.},
+  booktitle = {Digest of technical papers: Antennas and Propagation Society International Symposium, 1990. AP-S. Merging Technologies for the 90's., Dallas, Texas, May 7-11,},
+  title = {Time domain finite element analysis of 2-D shields},
+  year = {1990},
+  pages = {18-21 vol.1},
+  keywords = {finite element analysis;magnetic shielding;physics computing;software packages;time-domain analysis;2-D shields;Coulomb gauge;IBM 3090 mainframe computer;IMSL:PDE/PROTRAN;double exponential time dependence;finite-element mathematical package;magnetic vector potential;perfect conductor;plane wave;program validation;software package;time domain finite element analysis;two-dimensional time-domain;Application software;Conductors;Finite element methods;Magnetic analysis;Magnetic domains;Magnetic shielding;Packaging;Performance evaluation;Testing;Time domain analysis},
+  doi = {10.1109/APS.1990.115039},
+  month = may
+}
+&lt;/pre&gt;
+
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;http://dx.doi.org/10.1109/APS.1990.115039&quot;&gt;10.1109/APS.1990.115039&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;RC04-abstract&quot; class=&quot;collapse&quot;&gt;A two-dimensional time-domain application of a general finite-element mathematical package, IMSL:PDE/PROTRAN, is considered for two-dimensional shielding problems. The software runs on the IBM 3090 mainframe computer. The shielding problem is formulated via the magnetic vector potential and the Coulomb gauge. Validation of the program is performed via a simple test problem (plane wave incident on a perfect conductor). Results are presented for the case of a plane wave with double exponential time dependence incident on the shield.&lt;/p&gt;
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;RC03&quot;&gt;M. M. Kekez, J. LoVetri, A. S. Podgorski, J. G. Dunn, and G. Gibson, “A 60 joule, 600KV, 1ns rise-time Marx system,” in &lt;i&gt;Digest of technical papers: Seventh IEEE Pulsed Power Conference, Monterey, Ca., June 11-14&lt;/i&gt;, 1989, pp. 123–127. &lt;/span&gt;
+
+&lt;div id=&quot;RC03-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a href=&quot;/Publication PDFs/Conference Papers/RC03.pdf&quot;&gt;&lt;b&gt;RC03&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC03-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC03-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;RC03-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{RC03,
+  title = {A 60 joule, 600KV, 1ns rise-time Marx system},
+  author = {Kekez, MM and LoVetri, J and Podgorski, AS and Dunn, JG and Gibson, G},
+  booktitle = {Digest of technical papers: Seventh IEEE Pulsed Power Conference, Monterey, Ca., June 11-14},
+  pages = {123--127},
+  year = {1989},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;RC03-abstract&quot; class=&quot;collapse&quot;&gt;This paper describes work on the design and development of a low energy Marx generator system capable of producing a fast (1 ns rise time) plus-or-minus 600 kV pulse. The system consists of a Marx generator, peaking circuit and a short length coaxial line with a passive load. The generator delivers the power to 10-150 ohm loads with a peak power approaching 10 GW. The unique features are simplicity of design, ease of operation, and above all compactness which permits easy portability and in-situ application. The system can be used: a) to produce an intense relativistic electron/ion beam in the virtual cathode reflex triode for high power microwave generation; b) for flash X-ray radiography to record and study dynamic events where interposed material, debris, or flame exclude the use of high speed cameras; c) to provide 10E6 to 10E7 D-D (2.45 MeV) or D-T (14.1 MeV) neutrons in several nanoseconds; d) to study the dielectric properties of matter; e) for NEMP studies; and f) to preionize a powerful (electron beam controlled) eximer laser system. Experimental results are presented along with computer simulations using lumped-parameter approximations.&lt;/p&gt;
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;RC02&quot;&gt;J. LoVetri, S. Abu-Hakima, A. S. Podgorski, and G. I. Costache, “HardSys: applying expert system techniques to electromagnetic hardening,” in &lt;i&gt;Proceedings of 1989 IEEE National Symposium on Electromagnetic Compatibility&lt;/i&gt;, 1989, pp. 383–385. &lt;/span&gt;
+
+&lt;div id=&quot;RC02-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a href=&quot;/Publication PDFs/Conference Papers/RC02.pdf&quot;&gt;&lt;b&gt;RC02&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
+    
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC02-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC02-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+    &lt;pre id=&quot;RC02-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{RC02,
+  title = {HardSys: applying expert system techniques to electromagnetic hardening},
+  author = {LoVetri, Joe and Abu-Hakima, Suhayya and Podgorski, Andrew S and Costache, George I},
+  booktitle = {Proceedings of 1989 IEEE National Symposium on Electromagnetic Compatibility},
+  pages = {383--385},
+  year = {1989},
+  organization = {IEEE}
+}
+&lt;/pre&gt;
+
+    
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;RC02-abstract&quot; class=&quot;collapse&quot;&gt;This paper describes ongoing work on the application of expert system techniques to the electromagnetic hardening domain. The domain knowledge is partitioned into four electromagnetic hardening considerations: the ambient field (AF); the shielding effectiveness (SE); the system susceptibility (SS); and the probability of failure (PF). Each of these hardening requirements is implemented as a separate advisor module. Each module can be used independently and each can use information produced by any of the other modules if that information is available and/or required. Such is the case with the probability of failure module which requires the knowledge deduced from the ambient field, the shielding effectiveness and the equipment susceptibility advisors. A first prototype, HardSys, written in prolog and containing a subset of the domain knowledge has been implemented. Preliminary results are encouraging and more work is planned for the system. HardSys will eventually be used to solve real problems as well as be a tutoring aid for persons new to the electromagnetic hardening domain.&lt;/p&gt;
+  
+
+
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;RC01&quot;&gt;J. LoVetri and M. Hamid, “Three dimensional temperature gradients by the inverse black body radiation method,” in &lt;i&gt;Proceedings of 19th Annual Int. Microwave Power Institute Symposium, Minneapolis, Minnesota, Sept. 17-19&lt;/i&gt;, 1984, pp. 150–151. &lt;/span&gt;
+
+&lt;div id=&quot;RC01-materials&quot;&gt;
   &lt;ul class=&quot;nav nav-pills&quot;&gt;
     
     
 
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#CP1-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#RC01-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
-    &lt;pre id=&quot;CP1-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{CP1,
-  title = {Three Dimensional Temperature Gradients by the Inverse Black Body Radiation
-  Method},
-  author = {LoVetri, J and Hamid, M},
+    &lt;pre id=&quot;RC01-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{RC01,
+  title = {Three dimensional temperature gradients by the inverse black body radiation method},
+  author = {LoVetri, Joe and Hamid, Michael},
   booktitle = {Proceedings of 19th Annual Int. Microwave Power Institute Symposium, Minneapolis, Minnesota, Sept. 17-19},
   pages = {150--151},
   year = {1984},
@@ -5248,124 +5342,6 @@ M. Rizvi and J. L. Vetri, “ESD source modeling in FDTD,” in Electromagnetic 
 
 
 
-J. LoVetri, S. Abu-Hakima, A. S. Podgorski, and G. I. Costache, “HardSys-applying expert system techniques to electromagnetic hardening,” in Electromagnetic Compatibility, 1989., IEEE 1989 National Symposium on, 1989, pp. 383–385. 
-
-
-  
-    
-    
-
-    BibTeX
-
-    @inproceedings{lovetri1989hardsys,
-  title = {HardSys-applying expert system techniques to electromagnetic hardening},
-  author = {LoVetri, Joe and Abu-Hakima, Suhayya and Podgorski, Andrew S and Costache, George I},
-  booktitle = {Electromagnetic Compatibility, 1989., IEEE 1989 National Symposium on},
-  pages = {383--385},
-  year = {1989},
-  organization = {IEEE}
-}
-
-
-    
-  
-
-  
-
-
-
-
-
-
-J. LoVetri and G. I. Costache, “Time domain finite element analysis of 2-D shields,” in Antennas and Propagation Society International Symposium, 1990. AP-S. Merging Technologies for the 90’s. Digest., 1990, pp. 18–21. 
-
-
-  
-    
-    
-
-    BibTeX
-
-    @inproceedings{lovetri1990time,
-  title = {Time domain finite element analysis of 2-D shields},
-  author = {LoVetri, J and Costache, GI},
-  booktitle = {Antennas and Propagation Society International Symposium, 1990. AP-S. Merging Technologies for the 90's. Digest.},
-  pages = {18--21},
-  year = {1990},
-  organization = {IEEE}
-}
-
-
-    
-  
-
-  
-
-
-
-
-
-
-J. LoVetri and M. S. Wartak, “Practical comparison of finite difference time domain schemes,” in Antennas and Propagation Society International Symposium, 1991. AP-S. Digest, 1991, pp. 418–421. 
-
-
-  
-    
-    
-
-    BibTeX
-
-    @inproceedings{lovetri1991practical,
-  title = {Practical comparison of finite difference time domain schemes},
-  author = {LoVetri, J and Wartak, MS},
-  booktitle = {Antennas and Propagation Society International Symposium, 1991. AP-S. Digest},
-  pages = {418--421},
-  year = {1991},
-  organization = {IEEE}
-}
-
-
-    
-  
-
-  
-
-
-
-
-
-
-J. LoVetri and G. I. Costache, “Efficiency issues in the implementation of finite difference time domain codes,” in Antennas and Propagation Society International Symposium, 1991. AP-S. Digest, 1991, pp. 1746–1749. 
-
-
-  
-    
-    RC08
-    
-    
-
-    BibTeX
-
-    @inproceedings{RC08,
-  title = {Efficiency issues in the implementation of finite difference time domain codes},
-  author = {LoVetri, J and Costache, GI},
-  booktitle = {Antennas and Propagation Society International Symposium, 1991. AP-S. Digest},
-  pages = {1746--1749},
-  year = {1991},
-  organization = {IEEE}
-}
-
-
-    
-  
-
-  
-
-
-
-
-
-
 J. LoVetri and E. J. Weckman, “ELECTRIC SPACE CHARGES AND EXPLOSION HAZARDS IN AVIATION FUEL SYSTEMS/./. Inculet Department of Electrical Engineering The University of Western Ontario,” in Proceedings of the 1992 International Aerospace and Ground Conference on Lightning and Static Electricity: October 6-8, 1992, Trump Taj Mahal, Atlantic City, NJ., 1992, p. 14. 
 
 
@@ -5395,77 +5371,144 @@ J. LoVetri and E. J. Weckman, “ELECTRIC SPACE CHARGES AND EXPLOSION HAZARDS IN
 
 
 
-M. M. Kekez, J. LoVetri, A. S. Podgorski, J. G. Dunn, and G. Gibson, “A 60 joule, 600kv, 1ns rise-time marx system,” in Pulsed Power Conference, 1989. 7th, 1989, pp. 123–127. 
+J. LoVetri and W. H. Henneker, “HardSys/HardDraw: A smart topology based electromagnetic interaction modelling tool,” in Proc. of AIENG’91: Applications of Artificial Intelligence in Engineering VI, ed. G. Rzevski &amp;amp; R. A. Adey, University of Oxford, UK, July 2-4, Dordrecht, 1991, pp. 343–365 [Online]. Available at: http://dx.doi.org/10.1007/978-94-011-3648-8_23
 
 
   
     
+    RC09
+    
+    
+    Abstract
     
 
     BibTeX
 
-    @inproceedings{kekez198960,
-  title = {A 60 joule, 600kv, 1ns rise-time marx system},
-  author = {Kekez, MM and LoVetri, J and Podgorski, AS and Dunn, JG and Gibson, G},
-  booktitle = {Pulsed Power Conference, 1989. 7th},
-  pages = {123--127},
-  year = {1989},
+    @inproceedings{RC09,
+  author = {LoVetri, J. and Henneker, W.H.},
+  editor = {Rzevski, G. and Adey, R. A.},
+  title = {HardSys/HardDraw: A smart topology based electromagnetic interaction modelling tool},
+  booktitle = {Proc. of AIENG’91: Applications of Artificial Intelligence in Engineering VI, ed. G. Rzevski &amp;amp; R. A. Adey, University of Oxford, UK, July 2-4},
+  year = {1991},
+  publisher = {Springer Netherlands},
+  address = {Dordrecht},
+  pages = {343--365},
+  isbn = {978-94-011-3648-8},
+  doi = {10.1007/978-94-011-3648-8_23},
+  url = {http://dx.doi.org/10.1007/978-94-011-3648-8_23}
+}
+
+
+    
+    10.1007/978-94-011-3648-8_23
+    
+  
+
+  
+  An intelligent tool for the modelling and analysis of electromagnetic interactions in a complex electrical system is described. The purpose is to determine any unwanted electromagnetic effects which could jeopardize the safety and operation of the system. Modelling the interactions in a system requires the examination of the compounded and propagated effects of the electromagnetic fields. The approach taken here subdivides the modelling task into two parts: a) the definition of the related electromagnetic topology, and b) the propagation of the electromagnetic constraints. HardSys, a prototype object-based system implemented in Prolog, is used to propagate the electromagnetic constraints. User interaction is through HardDraw, a topology-drawing tool and an attribute interface.
+  
+
+
+
+
+
+
+J. LoVetri and G. I. Costache, “Efficiency issues in the implementation of finite difference time domain codes,” in 1991 IEEE Antennas and Propagation Society Int. Symp. and URSI Radio Science Meeting, London, Ontario, June 24-28, 1991, pp. 1746–1749 vol.3. 
+
+
+  
+    
+    RC08
+    
+    
+    Abstract
+    
+
+    BibTeX
+
+    @inproceedings{RC08,
+  title = {Efficiency issues in the implementation of finite difference time domain codes},
+  author = {LoVetri, J and Costache, GI},
+  booktitle = {1991 IEEE Antennas and Propagation Society Int. Symp. and URSI Radio Science Meeting, London, Ontario, June 24-28},
+  year = {1991},
+  pages = {1746-1749 vol.3},
+  keywords = {C language;difference equations;electromagnetism;time-domain analysis;C-language;FDTD;Maxwell's equations;computational efficiency;conservation laws;electromagnetic energy;finite difference time domain codes;memory requirements;sparse time-domain electromagnetic problems;Computational efficiency;Councils;Difference equations;Differential equations;Electromagnetic shielding;Finite difference methods;Information technology;Lattices;Maxwell equations;Polynomials},
+  doi = {10.1109/APS.1991.175195},
+  month = jun,
   organization = {IEEE}
 }
 
 
     
+    10.1109/APS.1991.175195
+    
   
 
   
+  Implementation techniques which increase the performance of time domain finite-difference codes for the solution of sparse time-domain electromagnetic problems are considered. As the basis of this analysis. Maxwell’s equations are expressed as a system of conservation laws. Practical issues such as computational efficiency and memory requirements are discussed for the implementation of the finite-difference schemes. Advanced programming techniques in the C-language are used to implement the finite-difference schemes discussed. The example of the penetration of electromagnetic energy through a shield with a thick-gap is used to check the efficiency of the methods.
+  
 
 
 
 
 
 
-M. M. Kekez, J. LoVetri, A. S. Podgorski, J. G. Dunn, and G. Gibson, “K1A 0R8,” in Digest of technical papers: Seventh IEEE Pulsed Power Conference, the Monterey Conference Center, Monterey, California, June 11-14, 1989, 1989, p. 123. 
+J. LoVetri and M. S. Wartak, “Practical comparison of finite difference time domain schemes,” in 1991 IEEE Antennas and Propagation Society Int. Symp. and URSI Radio Science Meeting, London, Ontario, June 24-28, 1991, pp. 418–421 vol.1. 
 
 
   
     
+    RC07
+    
+    
+    Abstract
     
 
     BibTeX
 
-    @inproceedings{kekez1989k1a,
-  title = {K1A 0R8},
-  author = {Kekez, MM and LoVetri, J and Podgorski, AS and Dunn, JG and Gibson, G},
-  booktitle = {Digest of technical papers: Seventh IEEE Pulsed Power Conference, the Monterey Conference Center, Monterey, California, June 11-14, 1989},
-  pages = {123},
-  year = {1989},
-  organization = {Institute of Electrical and Electronics Engineers}
+    @inproceedings{RC07,
+  author = {LoVetri, J and Wartak, M S},
+  booktitle = {1991 IEEE Antennas and Propagation Society Int. Symp. and URSI Radio Science Meeting, London, Ontario, June 24-28},
+  title = {Practical comparison of finite difference time domain schemes},
+  year = {1991},
+  pages = {418-421 vol.1},
+  keywords = {computational complexity;difference equations;electromagnetism;shielding;time-domain analysis;Lax-Wendroff scheme;computational efficiency;conducting shield;conservation laws;electromagnetic energy penetration;electromagnetism;finite difference time domain schemes;leap frog scheme;memory requirements;thick gap;time per node;time-domain Maxwell's equations;two step rotated Richtmyer scheme;upwind scheme;Content addressable storage;Councils;Finite difference methods;Physics computing;Stability},
+  doi = {10.1109/APS.1991.174864},
+  month = jun
 }
 
 
     
+    10.1109/APS.1991.174864
+    
   
 
   
+  Practical finite-difference methods for the time-domain Maxwell’s equations are considered. Leap frog, Lax-Wendroff, and upwind schemes are considered. As the basis of this analysis, Maxwell’s equations are expressed as a system of conservation laws. Practical considerations, such as computational efficiency and memory requirements, for the methods are discussed. The example of the penetration of electromagnetic energy through a shield with a thick gap in two dimensions is used to compare the methods. It is shown that the time per node is relatively constant for each method, but is considerably greater for the upwind scheme. It is also shown that the upwind algorithm resolves discontinuities in the medium better than the other techniques.
+  
 
 
 
 
 
 
-J. L. Vetri and A. S. Podgorski, “Evaluation of HardSys: A simple EMI expert system,” in Electromagnetic Compatibility, 1990. Symposium Record., 1990 IEEE International Symposium on, 1990, pp. 228–232. 
+J. LoVetri and A. S. Podgorski, “Evaluation of HardSys: A simple EMI expert system,” in Symposium Record: 1990 IEEE International Symposium on Electromagnetic Compatibility, Washington, D.C., August 21-23, 1990, pp. 228–232. 
 
 
   
     
+    RC06
+    
+    
+    Abstract
     
 
     BibTeX
 
-    @inproceedings{vetri1990evaluation,
+    @inproceedings{RC06,
   title = {Evaluation of HardSys: A simple EMI expert system},
-  author = {Vetri, J Lo and Podgorski, Andrew S},
-  booktitle = {Electromagnetic Compatibility, 1990. Symposium Record., 1990 IEEE International Symposium on},
+  author = {LoVetri, Joe and Podgorski, Andrew S},
+  booktitle = {Symposium Record: 1990 IEEE International Symposium on Electromagnetic Compatibility, Washington, D.C., August 21-23},
   pages = {228--232},
   year = {1990},
   organization = {IEEE}
@@ -5476,14 +5519,160 @@ J. L. Vetri and A. S. Podgorski, “Evaluation of HardSys: A simple EMI expert s
   
 
   
+  The concepts used in designing HardSys, a simple expert system capable of reasoning about EMI problems, are described. These are then evaluated by running the expert system on a test case previously analyzed by an EMI consultant. The test case was a subset of the NEMP (nuclear electromagnetic pulse) hardening of a typical military helicopter. The knowledge representation used in HardSys is of a fuzzy nature and it is this fuzziness which the authors evaluate. It is concluded that the present knowledge representation is a very powerful tool for EMI engineers.
+  
 
 
 
 
 
 
-J. LoVetri and M. Hamid, “Three Dimensional Temperature Gradients by the Inverse Black Body Radiation
-Method,” in Proceedings of 19th Annual Int. Microwave Power Institute Symposium, Minneapolis, Minnesota, Sept. 17-19, 1984, pp. 150–151. 
+J. LoVetri and D. P. W. Graham, “Constraint propagation through electromagnetic interaction topologies,” in 1990 Symposium on Antenna Technology and Applied Electromagnetics, ANTEM, Winnipeg, Manitoba, Canada, August 15-17, 1990, pp. 766–771. 
+
+
+  
+    
+    RC05
+    
+    
+    Abstract
+    
+
+    BibTeX
+
+    @inproceedings{RC05,
+  author = {LoVetri, J. and Graham, D. P. W.},
+  booktitle = {1990 Symposium on Antenna Technology and Applied Electromagnetics, ANTEM, Winnipeg, Manitoba, Canada, August 15-17},
+  title = {Constraint propagation through electromagnetic interaction topologies},
+  year = {1990},
+  pages = {766-771},
+  keywords = {Bipartite graph;Computers;Density measurement;Electromagnetic interference;Electromagnetics;Search problems;Topology},
+  month = aug
+}
+
+
+    
+  
+
+  
+  The effects of electromagnetic interactions in electrical systems are of concern because of the increased pollution of the environment with electromagnetic emissions and because of the increasing susceptibility of system components. The term electrical system is used herein in the general sense to include more than just networks of electronic components. Systems containing biological and/or mechanical components of varying complexity are also included when reference to the term electrical systems is made. Electromagnetic emissions from components within the electrical system, and also disturbances originating external to it, can be classified as deriving from intentional as well as non-intentional sources. The interaction effects on the susceptible components within these systems range from minor to catastrophic; they cannot always be predicted nor are they always understood. Study and control of this problem is very desirable and has involved the efforts of many persons from varying fields.
+  
+
+
+
+
+
+
+J. LoVetri and G. I. Costache, “Time domain finite element analysis of 2-D shields,” in Digest of technical papers: Antennas and Propagation Society International Symposium, 1990. AP-S. Merging Technologies for the 90’s., Dallas, Texas, May 7-11, 1990, pp. 18–21 vol.1. 
+
+
+  
+    
+    RC04
+    
+    
+    Abstract
+    
+
+    BibTeX
+
+    @inproceedings{RC04,
+  author = {LoVetri, J. and Costache, G. I.},
+  booktitle = {Digest of technical papers: Antennas and Propagation Society International Symposium, 1990. AP-S. Merging Technologies for the 90's., Dallas, Texas, May 7-11,},
+  title = {Time domain finite element analysis of 2-D shields},
+  year = {1990},
+  pages = {18-21 vol.1},
+  keywords = {finite element analysis;magnetic shielding;physics computing;software packages;time-domain analysis;2-D shields;Coulomb gauge;IBM 3090 mainframe computer;IMSL:PDE/PROTRAN;double exponential time dependence;finite-element mathematical package;magnetic vector potential;perfect conductor;plane wave;program validation;software package;time domain finite element analysis;two-dimensional time-domain;Application software;Conductors;Finite element methods;Magnetic analysis;Magnetic domains;Magnetic shielding;Packaging;Performance evaluation;Testing;Time domain analysis},
+  doi = {10.1109/APS.1990.115039},
+  month = may
+}
+
+
+    
+    10.1109/APS.1990.115039
+    
+  
+
+  
+  A two-dimensional time-domain application of a general finite-element mathematical package, IMSL:PDE/PROTRAN, is considered for two-dimensional shielding problems. The software runs on the IBM 3090 mainframe computer. The shielding problem is formulated via the magnetic vector potential and the Coulomb gauge. Validation of the program is performed via a simple test problem (plane wave incident on a perfect conductor). Results are presented for the case of a plane wave with double exponential time dependence incident on the shield.
+  
+
+
+
+
+
+
+M. M. Kekez, J. LoVetri, A. S. Podgorski, J. G. Dunn, and G. Gibson, “A 60 joule, 600KV, 1ns rise-time Marx system,” in Digest of technical papers: Seventh IEEE Pulsed Power Conference, Monterey, Ca., June 11-14, 1989, pp. 123–127. 
+
+
+  
+    
+    RC03
+    
+    
+    Abstract
+    
+
+    BibTeX
+
+    @inproceedings{RC03,
+  title = {A 60 joule, 600KV, 1ns rise-time Marx system},
+  author = {Kekez, MM and LoVetri, J and Podgorski, AS and Dunn, JG and Gibson, G},
+  booktitle = {Digest of technical papers: Seventh IEEE Pulsed Power Conference, Monterey, Ca., June 11-14},
+  pages = {123--127},
+  year = {1989},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+  This paper describes work on the design and development of a low energy Marx generator system capable of producing a fast (1 ns rise time) plus-or-minus 600 kV pulse. The system consists of a Marx generator, peaking circuit and a short length coaxial line with a passive load. The generator delivers the power to 10-150 ohm loads with a peak power approaching 10 GW. The unique features are simplicity of design, ease of operation, and above all compactness which permits easy portability and in-situ application. The system can be used: a) to produce an intense relativistic electron/ion beam in the virtual cathode reflex triode for high power microwave generation; b) for flash X-ray radiography to record and study dynamic events where interposed material, debris, or flame exclude the use of high speed cameras; c) to provide 10E6 to 10E7 D-D (2.45 MeV) or D-T (14.1 MeV) neutrons in several nanoseconds; d) to study the dielectric properties of matter; e) for NEMP studies; and f) to preionize a powerful (electron beam controlled) eximer laser system. Experimental results are presented along with computer simulations using lumped-parameter approximations.
+  
+
+
+
+
+
+
+J. LoVetri, S. Abu-Hakima, A. S. Podgorski, and G. I. Costache, “HardSys: applying expert system techniques to electromagnetic hardening,” in Proceedings of 1989 IEEE National Symposium on Electromagnetic Compatibility, 1989, pp. 383–385. 
+
+
+  
+    
+    RC02
+    
+    
+    Abstract
+    
+
+    BibTeX
+
+    @inproceedings{RC02,
+  title = {HardSys: applying expert system techniques to electromagnetic hardening},
+  author = {LoVetri, Joe and Abu-Hakima, Suhayya and Podgorski, Andrew S and Costache, George I},
+  booktitle = {Proceedings of 1989 IEEE National Symposium on Electromagnetic Compatibility},
+  pages = {383--385},
+  year = {1989},
+  organization = {IEEE}
+}
+
+
+    
+  
+
+  
+  This paper describes ongoing work on the application of expert system techniques to the electromagnetic hardening domain. The domain knowledge is partitioned into four electromagnetic hardening considerations: the ambient field (AF); the shielding effectiveness (SE); the system susceptibility (SS); and the probability of failure (PF). Each of these hardening requirements is implemented as a separate advisor module. Each module can be used independently and each can use information produced by any of the other modules if that information is available and/or required. Such is the case with the probability of failure module which requires the knowledge deduced from the ambient field, the shielding effectiveness and the equipment susceptibility advisors. A first prototype, HardSys, written in prolog and containing a subset of the domain knowledge has been implemented. Preliminary results are encouraging and more work is planned for the system. HardSys will eventually be used to solve real problems as well as be a tutoring aid for persons new to the electromagnetic hardening domain.
+  
+
+
+
+
+
+
+J. LoVetri and M. Hamid, “Three dimensional temperature gradients by the inverse black body radiation method,” in Proceedings of 19th Annual Int. Microwave Power Institute Symposium, Minneapolis, Minnesota, Sept. 17-19, 1984, pp. 150–151. 
 
 
   
@@ -5492,10 +5681,9 @@ Method,” in Proceedings of 19th Annual Int. Microwave Power Institute Symposiu
 
     BibTeX
 
-    @inproceedings{CP1,
-  title = {Three Dimensional Temperature Gradients by the Inverse Black Body Radiation
-  Method},
-  author = {LoVetri, J and Hamid, M},
+    @inproceedings{RC01,
+  title = {Three dimensional temperature gradients by the inverse black body radiation method},
+  author = {LoVetri, Joe and Hamid, Michael},
   booktitle = {Proceedings of 19th Annual Int. Microwave Power Institute Symposium, Minneapolis, Minnesota, Sept. 17-19},
   pages = {150--151},
   year = {1984},
