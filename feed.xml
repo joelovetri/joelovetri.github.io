@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://joelovetri.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://joelovetri.github.io/" rel="alternate" type="text/html" /><updated>2017-03-15T17:44:18-05:00</updated><id>http://joelovetri.github.io/</id><title type="html">Joe LoVetri’s Web Site</title><subtitle>All my interests--from Science and Technology to Philosophy.</subtitle><entry><title type="html">Conferences</title><link href="http://joelovetri.github.io/publications/Conferences/" rel="alternate" type="text/html" title="Conferences" /><published>2017-03-11T00:00:00-06:00</published><updated>2017-03-11T00:00:00-06:00</updated><id>http://joelovetri.github.io/publications/Conferences</id><content type="html" xml:base="http://joelovetri.github.io/publications/Conferences/">&lt;h3 id=&quot;section&quot;&gt;2017&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://joelovetri.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://joelovetri.github.io/" rel="alternate" type="text/html" /><updated>2017-03-15T17:57:24-05:00</updated><id>http://joelovetri.github.io/</id><title type="html">Joe LoVetri’s Web Site</title><subtitle>All my interests--from Science and Technology to Philosophy.</subtitle><entry><title type="html">Conferences</title><link href="http://joelovetri.github.io/publications/Conferences/" rel="alternate" type="text/html" title="Conferences" /><published>2017-03-11T00:00:00-06:00</published><updated>2017-03-11T00:00:00-06:00</updated><id>http://joelovetri.github.io/publications/Conferences</id><content type="html" xml:base="http://joelovetri.github.io/publications/Conferences/">&lt;h3 id=&quot;section&quot;&gt;2017&lt;/h3&gt;
 &lt;ul class=&quot;bibliography&quot;&gt;&lt;/ul&gt;
 &lt;h3 id=&quot;section-1&quot;&gt;2016&lt;/h3&gt;
 &lt;ul class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;abdollahi2016green&quot;&gt;N. Abdollahi, I. Jeffrey, and J. LoVetri, “Green’s theorem based eigenfunction formulations for PEC-enclosed electromagnetic imaging,” in &lt;i&gt;Antenna Technology and Applied Electromagnetics (ANTEM), 2016 17th International Symposium on&lt;/i&gt;, 2016, pp. 1–2. &lt;/span&gt;
@@ -2825,6 +2825,8 @@
 
 &lt;div id=&quot;RC01-materials&quot;&gt;
   &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a href=&quot;/Publication PDFs/Conference Papers/RC01.pdf&quot;&gt;&lt;b&gt;RC01&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
     
     
 
@@ -5676,6 +5678,8 @@ J. LoVetri and M. Hamid, “Three dimensional temperature gradients by the inver
 
 
   
+    
+    RC01
     
     
 
